@@ -5,15 +5,19 @@
 #include "CryptoPP/zlib.h"
 #include <vector>
 #include <iostream>
-#include <random>
-#include <streambuf>
+#include <iomanip>
 #include <sstream>
+#include <random>
 
-static std::string ReadAllBytesAsLiteral(char const* filename) {
-    std::ifstream ifs(filename, std::ios::binary);
-    std::stringstream buffer;
-    buffer << ifs.rdbuf();
-    return buffer.str();
+#include "XMLTagMapper.h"
+
+static std::vector<char> ReadAllBytes(char const* filename) {
+    std::ifstream ifs(filename, std::ios::binary | std::ios::ate);
+    std::ifstream::pos_type pos = ifs.tellg();
+    std::vector<char> result(pos);
+    ifs.seekg(0, std::ios::beg);
+    ifs.read(&result[0], pos);
+    return result;
 }
 
 void generateRandomIV(CryptoPP::byte* iv) {
@@ -28,12 +32,7 @@ void generateRandomIV(CryptoPP::byte* iv) {
 bool decrypt_file(const std::string& input_file, const std::string& output_file) {
     try {
         // Read the encrypted file
-        std::ifstream ifs(input_file, std::ios::binary | std::ios::ate);
-        std::ifstream::pos_type pos = ifs.tellg();
-        std::vector<char> file_bytes(pos);
-        ifs.seekg(0, std::ios::beg);
-        ifs.read(file_bytes.data(), pos);
-
+        std::vector<char> file_bytes = ReadAllBytes(input_file.c_str());
         char* file_buffer = file_bytes.data();
 
         // Extract the IV
@@ -59,9 +58,12 @@ bool decrypt_file(const std::string& input_file, const std::string& output_file)
         // Process the data
         df.Put((const CryptoPP::byte*)(file_buffer + 12), file_bytes.size() - 12);
 
-        // Write the raw decrypted data in binary mode
-        std::ofstream out(output_file, std::ios::binary);
-        out.write(decryptedtext.data(), decryptedtext.size());
+        XMLTagMapper mapper;
+        std::string deobfuscatedXML = mapper.transformXML(decryptedtext);
+
+        // Write the raw XML directly
+        std::ofstream out(output_file);
+        out << deobfuscatedXML;
         out.close();
 
         return true;
@@ -74,8 +76,13 @@ bool decrypt_file(const std::string& input_file, const std::string& output_file)
 
 bool encrypt_file(const std::string& input_file, const std::string& output_file) {
     try {
-        // Read file preserving literal characters
-        std::string input_content = ReadAllBytesAsLiteral(input_file.c_str());
+        // Read the input XML file
+        std::vector<char> xml_bytes = ReadAllBytes(input_file.c_str());
+        std::string xml_content(xml_bytes.begin(), xml_bytes.end());
+
+        // Obfuscate XML tags directly
+        XMLTagMapper mapper;
+        std::string obfuscatedXML = mapper.transformXML(xml_content, false);
 
         // Generate random IV
         CryptoPP::byte iv[12];
@@ -92,7 +99,7 @@ bool encrypt_file(const std::string& input_file, const std::string& output_file)
 
         // Compress first
         CryptoPP::ZlibCompressor compressor(new CryptoPP::StringSink(compressedtext));
-        compressor.Put((const CryptoPP::byte*)input_content.data(), input_content.size());
+        compressor.Put((const CryptoPP::byte*)obfuscatedXML.data(), obfuscatedXML.size());
         compressor.MessageEnd();
 
         // Setup encryption
@@ -133,7 +140,7 @@ int main(int argc, char* argv[]) {
     if (mode == "decrypt") {
         std::string output_file = base_name + "-" + timestamp + ".xml";
         if (decrypt_file(input_file, output_file)) {
-            std::cout << "Decrypted data saved to: " << output_file << std::endl;
+            std::cout << "Decrypted XML saved to: " << output_file << std::endl;
             return 0;
         }
     }
