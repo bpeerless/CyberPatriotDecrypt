@@ -1,0 +1,4536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e665>
+
+
+  <bd07>Windows10_cp17_tr</bd07>
+  <d539 />
+  <b799>CyberPatriot</b799>
+  <da76>CyberPatriot Training Round Windows 10</da76>
+  <bda1>CyberPatriotXVII</bda1>
+  <db90>http://52.202.17.90/ccs/upload</db90>
+  <e7ca>http://3.217.167.106</e7ca>
+  <b20e>true</b20e>
+  <bb34>https://www.uscyberpatriot.org/Pages/Readme/cp17_tr_e_win10_readme_jba6lmj5ka.aspx</bb34>
+  <ce43 />
+  <e708>
+
+
+    <a042>http://3.217.167.106/ping</a042>
+    <a042>http://scoreboard1.uscyberpatriot.org/ping</a042>
+    <b71e>http://time1.ucla.edu/home.php</b71e>
+    <b71e>http://www.thetimenow.com/utc/coordinated_universal_time</b71e>
+    <b71e>http://www.worldtimeserver.com/current_time_in_UTC.aspx</b71e>
+    <b71e>http://www.zulutime.net/</b71e>
+  </e708>
+  <f809>
+
+
+    <d88d>2024-08-02 05:00</d88d>
+    <c634>2024-10-14 05:00</c634>
+    <bef5>168:00</bef5>
+    <a9b1 />
+    <edd9>true</edd9>
+    <fa86>00:30</fa86>
+  </f809>
+  <f1b5>
+
+
+    <d88d>2024-08-02 05:00</d88d>
+    <c634>2024-10-14 05:00</c634>
+    <bef5>168:00</bef5>
+    <a9b1 />
+    <cc52>true</cc52>
+    <edd9>true</edd9>
+    <fa86>true</fa86>
+    <ab71 />
+  </f1b5>
+  <b675 />
+  <d6a3>720:00</d6a3>
+  <ab0b />
+  <a3e2>60</a3e2>
+  <c826>60</c826>
+  <f0ae>20</f0ae>
+  <e82a>
+
+
+    <e5d8>C:\CyberPatriot\sox.exe C:\CyberPatriot\gain.wav -d -q</e5d8>
+    <e5d8>C:\CyberPatriot\Notify.exe You Gained Points</e5d8>
+  </e82a>
+  <ae55>
+
+
+    <e5d8>C:\CyberPatriot\sox.exe C:\CyberPatriot\alarm.wav -d -q</e5d8>
+    <e5d8>C:\CyberPatriot\Notify.exe You Lost Points</e5d8>
+  </ae55>
+  <b2cf>
+
+
+    <e5d8>C:\CyberPatriot\sox.exe C:\CyberPatriot\siren.wav -d -q</e5d8>
+    <e5d8>C:\CyberPatriot\Notify.exe WARNING: Invalid Unique Identifier</e5d8>
+  </b2cf>
+  <eeff>true</eeff>
+  <d8f2>true</d8f2>
+  <a0dd>C:\CyberPatriot</a0dd>
+  <df0d>ScoringConfig</df0d>
+  <b460>ScoringReport</b460>
+  <a240>ScoringReportTemplate</a240>
+  <db8b>ScoringData/ScoringReport</db8b>
+  <d1fb>tempfile</d1fb>
+  <c901>
+
+
+    <e61d>true</e61d>
+    <a7bf>3</a7bf>
+  </c901>
+  <ba3f>
+    <fbf0>FOR</fbf0>
+    <e9ec>0</e9ec>
+    <ecb9>Forensic Question</ecb9>
+  </ba3f>
+  <ba3f>
+    <fbf0>USR</fbf0>
+    <e9ec>0</e9ec>
+    <ecb9>User auditing</ecb9>
+  </ba3f>
+  <ba3f>
+    <fbf0>ACT</fbf0>
+    <e9ec>0</e9ec>
+    <ecb9>Account policy</ecb9>
+  </ba3f>
+  <ba3f>
+    <fbf0>POL</fbf0>
+    <e9ec>0</e9ec>
+    <ecb9>Local policy</ecb9>
+  </ba3f>
+  <ba3f>
+    <fbf0>DEF</fbf0>
+    <e9ec>0</e9ec>
+    <ecb9>Defensive countermeasure</ecb9>
+  </ba3f>
+  <ba3f>
+    <fbf0>SYS</fbf0>
+    <e9ec>0</e9ec>
+    <ecb9>Uncategorized operating system setting</ecb9>
+  </ba3f>
+  <ba3f>
+    <fbf0>SRV</fbf0>
+    <e9ec>0</e9ec>
+    <ecb9>Service auditing</ecb9>
+  </ba3f>
+  <ba3f>
+    <fbf0>OUP</fbf0>
+    <e9ec>0</e9ec>
+    <ecb9>Operating system update</ecb9>
+  </ba3f>
+  <ba3f>
+    <fbf0>AUP</fbf0>
+    <e9ec>0</e9ec>
+    <ecb9>Application update</ecb9>
+  </ba3f>
+  <ba3f>
+    <fbf0>FIL</fbf0>
+    <e9ec>0</e9ec>
+    <ecb9>Prohibited file</ecb9>
+  </ba3f>
+  <ba3f>
+    <fbf0>SFT</fbf0>
+    <e9ec>0</e9ec>
+    <ecb9>Unwanted software</ecb9>
+  </ba3f>
+  <ba3f>
+    <fbf0>MAL</fbf0>
+    <e9ec>0</e9ec>
+    <ecb9>Malware</ecb9>
+  </ba3f>
+  <ba3f>
+    <fbf0>APP</fbf0>
+    <e9ec>0</e9ec>
+    <ecb9>Application security</ecb9>
+  </ba3f>
+  <ba3f>
+    <fbf0>PEN</fbf0>
+    <e9ec>0</e9ec>
+    <ecb9>Penalty</ecb9>
+  </ba3f>
+  <fd37>
+
+
+    <d959>150D491B</d959>
+    <ed79>Windows 10 Enterprise LTSB 64-bit</ed79>
+    <abc4>2019-Oct-09 19:44:47</abc4>
+    <f8de>C:\CyberPatriot\CCSClient.exe</f8de>
+    <e28e>76A4817D9DB45FE36115B1F68C99A487B9B39783D5A481692009985D6C6B04BF</e28e>
+    <d6b3>C:\CyberPatriot\ScoringResource.dat</d6b3>
+    <ResourceHash />
+  </fd37>
+  <ee2b>
+
+
+    <f423>Q1</f423>
+    <ba3f>FOR</ba3f>
+    <ecb9>
+      B26E0177CD13182FD8A6D7F98B5C29FEDD02165E908BFEAC0DB518529B78AEF10B49C71E187EAF323467CC34D9F7979A5B810A0A82F235341F09F1868625573C</ecb9>
+    <e312>8</e312>
+    <e792>
+
+
+      <d748>file</d748>
+      <c53d>T1</c53d>
+      <cff9>C:\Users\eleven\Desktop\Forensics Question 1.txt</cff9>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>Contains</c73a>
+        <a76c>(?i)ANSWER:\s*She&apos;s\s+our\s+friend\s+and\s+she&apos;s\s+crazy(\s|$)</a76c>
+      </T1>
+      <T1>
+
+
+        <c73a>Contains</c73a>
+        <bbc2>(?i)ANSWER:\s*Next\s+Generation\s+Cyber\s+Warrior(\s|$)</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>Contains</c73a>
+        <a76c>(?i)ANSWER:\s*Mornings\s+are\s+for\s+coffee(\s|$)</a76c>
+      </T1>
+      <T1>
+
+
+        <c73a>Contains</c73a>
+        <a76c>(?i)ANSWER:\s*Friends\s+don&apos;t\s+lie(\s|$)</a76c>
+      </T1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>TVDHG</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      B96A9945033D95CDFD7CCD42CF3D749A1FE02DA192336AF40F548EF43DE1D3447FA392BD30BA9773F0FF59D8CA3F54FF7EED61F593BAF6F0A050021B5B34433D80A76F105740B1ABD665AA36B68F1F</ecb9>
+    <e312>-6</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Printers\Microsoft Print to PDF</f5fe>
+      <c196>Action</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>HRKDC</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      B17782C32A6FEB51E3361CAAA98839ED148A8A1CC22FD6AAADA437C756976C62E0697F0F0A1C863FDE3BC04A2825CD18CE295FD094915774A00154BD06FCB80C82B1AC6B95B63F749D0C2DBEEFE754</ecb9>
+    <e312>-4</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\SO\DOWNLOAD\FONTDOWNLOAD</f5fe>
+      <c196>Bitmap</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>LENQ</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      63EF17027B5507C9B52F8F66D7BA05AFD67F72DF2906F118047DC4FDA15C76FF2023B6A05467F684DE6C9A0130C1002A80FECE6854779616B5AA2734EDD2C554A21DA64FCC6CEC2245B228B49E30CBBBAC</ecb9>
+    <e312>-4</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions\Cpls.admx</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>TQTY</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      462072036E5B67EF06323DA89B18882E845949432FDBD234B5FD375D2D508A649E71F88FB410578BC483D03251F2AF6E799EF56D56CE176172B74604DB7CFC78A196FA792A4ED2AED7392B1C3C68B78EE8</ecb9>
+    <e312>-2</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\desktop.ini</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\ProgramData\Microsoft\Windows\Start Menu\Programs</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>Q2</f423>
+    <ba3f>FOR</ba3f>
+    <ecb9>
+      D9AD2B6AD00DF82F265698FC06BD8FF5E460FCBA892D554CD83FEF120E4061F4F5B22D5531920030E03BC8E1798BA0C757C3A081EAAF6FCD817FD37E85F81D1F</ecb9>
+    <e312>8</e312>
+    <e792>
+
+
+      <d748>file</d748>
+      <c53d>T1</c53d>
+      <cff9>C:\Users\eleven\Desktop\Forensics Question 2.txt</cff9>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>Contains</c73a>
+        <a76c>(?i)ANSWER:\s*She&apos;s\s+our\s+friend\s+and\s+she&apos;s\s+crazy(\s|$)</a76c>
+      </T1>
+      <T1>
+
+
+        <c73a>Contains</c73a>
+        <bbc2>(?i)ANSWER:\s*something\s+you\s+are(\s|$)</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>Contains</c73a>
+        <a76c>(?i)ANSWER:\s*something\s+you\s+feel(\s|$)</a76c>
+      </T1>
+      <T1>
+
+
+        <c73a>Contains</c73a>
+        <a76c>(?i)ANSWER:\s*something\s+you\s+sense(\s|$)</a76c>
+      </T1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>IBPM</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      82A5AA3F57AB98C422EC2B7B5668CEAD4833EB91582D3ED0BC72543BC50E4077FFC3442CAE929C29A46552DBC304659BBD8CD4073254E4DCBFE0309E45A822E678BF22703BB5AD15C391F251AC58CB6BE2</ecb9>
+    <e312>-4</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Prefetch\RUNDLL32.EXE-F2BA256B.pf</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Prefetch</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>CFRA</f423>
+    <ba3f>USR</ba3f>
+    <ecb9>
+      286143E4292EC36D2FFF7B137D4C15FDA6F2611842334159831B4EF4C9E5F63CE9FE7AB3F06FAD687A9735F71AC0EBB94E29C90ACD76AE7032AC15B1A001298332945C</ecb9>
+    <e312>3</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>user</d748>
+      <fb73>cfrazier</fb73>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </T1>
+    </d4f5>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>Enabled</c73a>
+        <bbc2>false</bbc2>
+      </T1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>MDIDU</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      513D9AB6988FA35AE9D22638BD32234E943339C5460DCC264984BD744A03FB296D49B16975B71262ACE96B6296F89F5DC3479F2BAFF0E191DA5274F0EB36FC2AC92936D5999977855CEC74F12B5A0D</ecb9>
+    <e312>-5</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SYSTEM\CurrentControlSet\Services\LSI_SAS2i\Parameters\PnpInterface</f5fe>
+      <c196>5</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>INUA</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      661E4852683A16D156B3647AB5EB5DA8C9B4346735C27805E01BACD71F120549DA930EBBBC2D88C86F18A9325BD8CC9378AE7FA34D4D47E66E5284E333E6D1B871945A6015DCBFF99F2C72C1E64875AC38</ecb9>
+    <e312>-6</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media\Windows Feed Discovered.wav</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>MQKM</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      3020FD0F483D59A95F79379E0F367AAC5D26DB598A7FC1B6E594C8C27B7C349E482C8D69A8F6FA3936E9CAAE3B171556282EBBA74753DDEB1390892DCC48FBDC678C95878F55830ED9934D369C13CFB2BB</ecb9>
+    <e312>-6</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media\Windows Notify Messaging.wav</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>OGHD</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      4565622ACD4ACBBCE5BF350EF6586C51D85A6A6AE1B0E084520C54AF676B82291BA9B502BE084DB3AAFF0EC2C7566A912F1C58A8A0BCD4D53A2FD0D550958F7BA45B8A02C8C58AF371BCA0D067D8879B65</ecb9>
+    <e312>-6</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions\ActiveXInstallService.admx</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>MTQR</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      2161DDE35821E0642DFF8E898B022FCF9B956D81F95D9676842C0C56AE45A97B3924FAB537F8D6D462F2070A287615CFA23109D2EC77D47BC28B4BD9E740C79A4A47D22CE1F1E543F53E32CD1A9B502928</ecb9>
+    <e312>-5</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Program Files\Windows Media Player\WMPMediaSharing.dll</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Program Files\Windows Media Player</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>VECN</f423>
+    <ba3f>USR</ba3f>
+    <ecb9>
+      C90D35510211DE36CC9D2B3E4CB651BC59482EB1F1F69ADEF870F5DDB47FE62ABE8AC8AEC145DB6C74D1A38895855965628BD288289C3956DA90BE7523293CEC</ecb9>
+    <e312>3</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>user</d748>
+      <fb73>vecna</fb73>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </T1>
+    </d4f5>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>Enabled</c73a>
+        <bbc2>false</bbc2>
+      </T1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>MYNZ</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      353DF4BB5694C6FE7E140DB827174FF6503B86475C515A8DF330ACB9D065AFC2DE4F0E94EF2196DAF4F1C4E75C66285408CD682FA89F82D51639831E915E9F2923DAE2C8C8FA1D53247F836E3C65625151</ecb9>
+    <e312>-5</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\System32\GroupPolicy\Machine\keylogger.exe</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\System32\GroupPolicy\Machine</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>JPCPT</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      1D9FB96E90E2F626FD4C17DC145D31CFEAB32C276E3F90C6617661C489D3E695398CBA22388DC3A8DFA6C7E60FD8BD76709375157E32F6F746F8A19C620AE37D7203D3F87097B959AFE411E6ECCBB2</ecb9>
+    <e312>-4</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>
+        SYSTEM\CurrentControlSet\Control\WMI\Autologger\EventLog-System\{988c59c5-0a1c-45b6-a555-0c62276e327d}</f5fe>
+      <c196>MatchAnyKeyword</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>FBVHV</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      F519CCBC64A2DDDB49EEBA53862CA99C0591D11C0600EC79B7340A9EE00E624CF0B5081AB866A092E8CE9830CBE9F75C7160C7969DC0A75247A27A8209A3243C9A7D018D2F5C2AC81C40126722FDA6</ecb9>
+    <e312>-3</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SYSTEM\CurrentControlSet\Services\PcaSvc</f5fe>
+      <c196>DependOnService</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>BRAD</f423>
+    <ba3f>USR</ba3f>
+    <ecb9>
+      EDA6E42E88885B314AB27C09274B61BE7D6297835667D5198F16701871004D3D935A09DF01E6E7B206D80B21AE4D112E53B033A9A1A3DE3810AEABFDF462D1651D37CBF73571FF9F959B</ecb9>
+    <e312>3</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>user</d748>
+      <fb73>bbradshaw</fb73>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>Admin</c73a>
+        <bbc2>false</bbc2>
+      </T1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>WSBM</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      9C062B241760D89E439C088E438E6BD14F1DE3E1722A48041C7B0EAD2AAF44988BF4EA0BECF1B9395FE3E418A6980A44D8D40D70D41B7B07547DA4B6DE6ACD2B839E249F54FDDB7BADF46EC5DFA6B67670</ecb9>
+    <e312>-4</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions\ExternalBoot.admx</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>FXXUF</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      BDB0ECA4C45BE6C51FDD7B6AC259DD869FE317FF56F8C306D278167BEAFC946F7B51CD8AA761C2CF63E783EF9C26FC440850E6EBCA5F1C873B48C87DECA9648CD983BF043427FC67ACF23AA803739D</ecb9>
+    <e312>-3</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>
+        SYSTEM\CurrentControlSet\Control\NetDiagFx\Microsoft\HostDLLs\WPPTrace\HelperClasses\wireless_dbg\Providers\{2D0CC56C-874F-422C-B25F-246F286A24BA}</f5fe>
+      <c196 />
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>KUORQ</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      C583A9D7FB1874E0A53C3673AC1A0903850442B8D6B064FFE5BA616927FAAFA4528A119D20BE0C1391D24A1BEB5BD584C96FAC866A4A490143478154D2FB929E434989C41D8159C15913F9C00E2596</ecb9>
+    <e312>-6</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SYSTEM\CurrentControlSet\Control\Cryptography\Providers\Microsoft Primitive Provider\UM</f5fe>
+      <c196 />
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>BAVA</f423>
+    <ba3f>USR</ba3f>
+    <ecb9>
+      A6C3F9F7509D4F0EBC74CC711D441F6734B2BCAA5822E6B109CCCF57C884460B9D74372C939F0E97B2A26D04BAA08E2C72F5EC3D56744FCDAFD7312E0CF2AEBCAF89C92AC74FB5E240</ecb9>
+    <e312>3</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>user</d748>
+      <fb73>bavalone</fb73>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>Admin</c73a>
+        <bbc2>false</bbc2>
+      </T1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>PBTJ</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      BB8F9371E03ECE09962E5C83B7FBC8CEBC75238DD8ECB7E47E33F7B2DB9A02AF2F04C555DA0AFD5F98D9146B2D60AD8708C38F5F66CB838D9A46BC7F9B85C998CAD65868D2D2126389776604B0EA74B64D</ecb9>
+    <e312>-6</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Microsoft.NET\Framework\sbs_mscorsec.dll</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Microsoft.NET\Framework</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>LLEE</f423>
+    <ba3f>USR</ba3f>
+    <ecb9>
+      4C243A56474FC61E30DD39CBEE7A2792C37BF0D91390B723F1785CC652217F23B30A6BD7195A5DAD013267884D424D90B4693A7F14CE81E129C4C703</ecb9>
+    <e312>3</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>user</d748>
+      <fb73>llee</fb73>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>Password</c73a>
+        <a76c />
+      </T1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>ALEX</f423>
+    <ba3f>USR</ba3f>
+    <ecb9>
+      3F2C206B25A7FEE23EDE7083DAF939810B38F3577107F9201E0D7650F6A3886EFBE86451CFB3F4AE0F4E45484A6D359D68A8B1E5BFC826C00C6AE2C9AA19E0</ecb9>
+    <e312>3</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>user</d748>
+      <fb73>alexei</fb73>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>YBYJ</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      C798F9F838A4D957B0FAF88D63D22166FD6E4FF4365A7A9FE26145487168F18EB0EDB8E4EA92F82E0F9022CDF8D4F39CA7BB40EF0DE8F238733AC02819B7E83C02C1A3D9BC4B64830B377D9479373EA790</ecb9>
+    <e312>-2</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Program Files\Internet Explorer\ieinstal.exe</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Program Files\Internet Explorer</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>HYPE</f423>
+    <ba3f>USR</ba3f>
+    <ecb9>
+      495BC1534AD06A8EBE56F0CFADABF4B4643FEE0E7BBCFC9736C3FA5A86595435036648ECD5B4396230219B5AE46076021D838CC7CC0DF90BDE1AD8F8</ecb9>
+    <e312>4</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>group</d748>
+      <ef37>hypersonic</ef37>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>GLCS</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      6022D0C5557B363B81CAB11ADE3B42FC0B07C28102E8F7E1D5FE59B1473A5D375AC1ACDA0BA1577C4740A1651AAADB7061EB21C04707D902AF3AD88F280383C798E2AED3CF5B215D15ABD77AC25D9B235F</ecb9>
+    <e312>-4</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media\onestop.mid</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>YTMEP</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      C5E21031D7040BAE9C1019C8B448C905365754827B7A9FE0E27C4BB6CCDFDE887F74463413EC5A5E2CA23B77833639BA486B9C609FD8AFABFC6233824062C0A1F37F62A5D4BFAC62B7B58E59FC8B0C</ecb9>
+    <e312>-3</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SYSTEM\CurrentControlSet\Services\StateRepository\parameters</f5fe>
+      <c196 />
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>NNWE</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      A17A71063D85B72553BDD1A16EAF0F41EFC5531DA28EF065C457EA4F70642EC812E067003DA1762064552029D7B0A849584DC430D14CE0A91C0998C9731A65A8CC1310670FD95020642DF88C53288E4896</ecb9>
+    <e312>-3</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Prefetch\SHELLEXPERIENCEHOST.EXE-444E75D2.pf</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Prefetch</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>NJMSV</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      C57D24D4769F5886EDAC5DF3586642745F7E666ADBC975E9B4BE6F0D0538E1088DC620324C99F0E2E77620266C0D3C34212090B67798B5AD594C3C4EAC1A5ED5D854F63FC770859C5DBCE4482BE087</ecb9>
+    <e312>-4</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SYSTEM\CurrentControlSet\Control\WMI\Security</f5fe>
+      <c196>73a33ab2-1966-4999-8add-868c41415269</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>HYP2</f423>
+    <ba3f>USR</ba3f>
+    <ecb9>
+      81C43B5D281D1B5809B1F33D94EF47848A183FE101040DC8A8223C3103150A0503D267A55836422CE1B3626FD627953D96CA50D8EDC132B10D802C4E7FCDEF840C</ecb9>
+    <e312>4</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>group</d748>
+      <ef37>hypersonic</ef37>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>Member</c73a>
+        <bbc2>ntrace</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>Member</c73a>
+        <bbc2>mgarcia</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>Member</c73a>
+        <bbc2>bcoleman</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>Member</c73a>
+        <bbc2>alexei</bbc2>
+      </T1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>KJESQ</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      3B713FD17FB2D8D9D18E7FF5D726707BDA0A01DE706A6C16943DF8376AB0CA3D72487B94D40BCEFD5B5B6972D66FA903B0C755E4BD3E5ADC8418DD3A941BACF34CE754DAA153157B6F21F8C1E8274F</ecb9>
+    <e312>-5</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SOFTWARE\Microsoft\Internet Explorer\Low Rights\RunDLl32Policy\cnmsm6f.dll</f5fe>
+      <c196 />
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>JMZKR</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      0535D4AD3C5CCE3D117CD484867F80BFAA66E12A31A4201E01EDD6B139DFDF522D7CBFDEF887FCDCEC70C18F65F0D8CBE1628F3C41BFC553655089D8FA6CEB91C1B52EA3F9E147DE90BBB269EA31F1</ecb9>
+    <e312>-5</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SYSTEM\CurrentControlSet\Control\Class\{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}\0002</f5fe>
+      <c196>ProviderName</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>INBDE</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      94C409712D468EF0AB5C715012A6D367375ED89343D06C94ECFDD1704AE9112B5FDB2359C8914FEE3D601BDDDF88F00E8CB0B6B1B7A07473A6D09865478EE5002AB6E578BBACA33F007DA8D763F803</ecb9>
+    <e312>-5</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SYSTEM\CurrentControlSet\Control\MediaCategories\{E88C9BA0-C557-11D0-8A2B-00A0C9255AC1}</f5fe>
+      <c196>Display</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>CPAS</f423>
+    <ba3f>USR</ba3f>
+    <ecb9>
+      F45E18D78A1218895124F28989D7F7298A40BAD490FD505AE1119A4EA39F52E91778F10394E305F399256A8FF8E4A5F2BB0D1FBC76DF905F3588E43A6640616568C2AD</ecb9>
+    <e312>3</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>user</d748>
+      <fb73>cbradshaw</fb73>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>PasswordExpires</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>USLUR</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      308364F4D88E9CEBC1C09AF475297014586768E06A5A08EFB5EE1A9CC09954295FA4D313B263D3B32D042620969008AB75E0CE224D2903770535B23B245492259D184292F683B30AAC068665E2DAB9</ecb9>
+    <e312>-3</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>
+        SYSTEM\CurrentControlSet\Control\WMI\Autologger\EventLog-System\{059f0f37-910e-4ff0-a7ee-ae8d49dd319b}</f5fe>
+      <c196 />
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>TBXML</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      2704DE4C9E18294CCD1734E3EF8C2F9DEC2343A2D4DD89E0AD7E05E06AC8A9C3A95DC3CCAE2B677FC48DD80DFC615A393E7E8B3A6E86165DF37037409E6AAF96F052E5514562D7C8734BDC63E222D9</ecb9>
+    <e312>-3</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SYSTEM\CurrentControlSet\Control\Power</f5fe>
+      <c196>CsEnabled</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>GRSDF</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      CCC69A09670E93FF442AA34F2F2DDE8D7A27D1C68E9D9C91DC4688899926C0C73B1CEF19CEDF5B2CF4FCE5AFA13C37527700B0380DC4F918BF062BC3ADFD7875EEB13996A3BF12EB30922F7EEDF295</ecb9>
+    <e312>-5</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>
+        SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StartMenu\StartPanel\PinnedItems\Homegroup</f5fe>
+      <c196>CheckedValue</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>MAXAGE</f423>
+    <ba3f>ACT</ba3f>
+    <ecb9>
+      9FEFDAFBD9A8D4321AB94ADDE47D18B69EBBD19765F79FD80E6A0159388A084B8568101FEC9437AD8C6CB20FA81BC9CBC6CEAAB636E32C98A13D256A7E83CDA1C58497D41EA5670A</ecb9>
+    <e312>4</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>password_policy</d748>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>MaxPasswordAge</c73a>
+        <a4cb>604800</a4cb>
+      </T1>
+      <T1>
+
+
+        <c73a>MaxPasswordAge</c73a>
+        <d82a>7862400</d82a>
+      </T1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>RYWR</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      9901D018DCE80A7FDD5482AD2D5DA4E0A52535F5DCD11BEF66F8291BBE3D6963E8A3052007AF62882417702D9351B37C38872076EEFB0523E802DAAE7401C4FACD9684A36773B94DD8ED6C6DEE10697A77</ecb9>
+    <e312>-4</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions\UserExperienceVirtualization.admx</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>UAOBA</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      F14BD97A4B51651AABB095FC9B401E3E0355D5C756BC7FA0693707BC91AE97ED827B2C6F89848EECC2177C4291BFE4CD3E85E1A0521972CD1FEFFFC29E84541E695C2C4E867B08E79B4E7FF9C0C113</ecb9>
+    <e312>-2</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SOFTWARE\Microsoft\Internet Explorer\ActiveX
+        Compatibility\{886E7BF0-C867-11CF-B1AE-00AA00A3F2C3}</f5fe>
+      <c196 />
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>AMHW</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      26F2F69B3DA022401BCA1498855EE6D68A2182BED11C1EF9494E01BD4BB63A1E1720D1BBF6D7FA9B664F6FE927E34C8ED379B0C3F97697ABDEE1B06CE6F7B1030035D526A189D719248BF7BB1F068ADD9E</ecb9>
+    <e312>-3</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Prefetch\RUNDLL32.EXE-90B5D9EF.pf</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Prefetch</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>THR</f423>
+    <ba3f>ACT</ba3f>
+    <ecb9>
+      947FCDE01914DA57CE42213167874C9485195FBD0EC3FC37FFA389DCAF80EE5D368A3E7E3ADBC55BF118D9CFF6ECD94E52461CD3A6E25E827304F396B6C07D62E01A0612A4</ecb9>
+    <e312>4</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>account_lockout_policy</d748>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>LockoutThreshold</c73a>
+        <a4cb>4</a4cb>
+      </T1>
+      <T1>
+
+
+        <c73a>LockoutThreshold</c73a>
+        <d82a>51</d82a>
+      </T1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>MRIBJ</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      CDA2A860B25F4B93C33001BA72AD76D95B69E3608BD2377EC5459F7C07795E2E9F6529447E33D202E187188AE9A08DA5B77F7E487959617BCDB36F9A266B277C3A014AADD49C0F43411DC7865A1D2D</ecb9>
+    <e312>-4</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>
+        SYSTEM\CurrentControlSet\Control\Network\{4d36e974-e325-11ce-bfc1-08002be10318}\{EA24CD6C-D17A-4348-9190-09F0D5BE83DD}\Ndi</f5fe>
+      <c196>Service</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>FUCOC</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      57FFF383650090B2832C2669AEDF06DE312A9A8553CF3510A65B246A3B238EDE68295D01CA7DC6BECB43924DEA9B9F31B17AC1DC533968A42C3310354B9C63FEB85E27654DD57B8B9F961074C151E4</ecb9>
+    <e312>-4</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SYSTEM\CurrentControlSet\Control\Class\{62f9c741-b25a-46ce-b54c-9bccce08b6f2}</f5fe>
+      <c196>SilentInstall</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>AU_CVF</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      2EAC68A56ABD882EA90FE12B6322F3B32CFD52DA2219D341AA8722B124229A799B82CC6AF838C82034CBD0771559E811E486C6471BF64749BB223E3B7DB5194ED9E4869E4A069FDE23</ecb9>
+    <e312>4</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>audit_policy</d748>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>AccountLogon.CredentialValidation</c73a>
+        <bbc2>Failure</bbc2>
+      </T1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>NA_RAS</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      79CB393004D06733F9C44808CC91FB0BE9CC345C0BDB2CF8075503E649C6C7D2C2C9691B8C37EA6BD0FCB505EC482DCDB2D0B46DF1241543744C0BF622FF2005476DCEBF10CC58B3C15049E3544BB68AC0DCF6A678A5F2FF74C861F94A2FFA0A</ecb9>
+    <e312>4</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SYSTEM\CurrentControlSet\Control\Lsa</f5fe>
+      <c196>RestrictAnonymousSAM</c196>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </T1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>XENDM</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      5BAE3E9A0D24852978BFA118B3D93307D80A9BF2AB3C4F27FEE970B6008D307D4331F67CFD55CAE77CA11233C7C6BB097B5DCFD0E284DD1013FD4AB63B9B963FA8212E7551B7F5C2835D243B904F8D</ecb9>
+    <e312>-6</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SYSTEM\CurrentControlSet\Services\bam</f5fe>
+      <c196>Description</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>AFWGZ</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      B1DDF1AFB25D04400F2EE09B40A47366E7A735E88F214F7623CB4EE658A992610E487F3B6805B564E382992FDF29C642BEC0AA9F1C153BA9C9F57B974772FFE99603E9C8231C51EE83A83C431C7B51</ecb9>
+    <e312>-3</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SOFTWARE\Microsoft\Windows NT\CurrentVersion\NtVdm64\ACMSETUP301</f5fe>
+      <c196>ProductName</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>MXTCD</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      4CFF21A27391AF5F1B7D64122391C61446FC2635804259A30629C6606D559667EA16CEF4794487976343F017BF05087ADE2C3EA4C2D70CE742E4FE9CF92CC701C05A5D4EA6C91A917FEEA1BB67A446</ecb9>
+    <e312>-5</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SYSTEM\CurrentControlSet\Control\Class\{b86dff51-a31e-4bac-b3cf-e8cfe75c9fc2}</f5fe>
+      <c196>FSFilterClass</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>HYLP</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      7E5F0029514716FEE8F0CCF5813902AE03C46C719A6C711FDC757B8FF7685FB21E6EF335FAC05897C8B5B8F8BE40409BEB652BF6E3E9FDE59ED7CBF823ED169A2A8BC7BC910A1A72A66E1EC285844EF90A</ecb9>
+    <e312>-5</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions\WCM.admx</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>SE_SECP</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      4343371A174B8533BA6D1106FB3FB74280FB04EA5626FB5AE48C6D1A6CCFD3457B34C8470C2A1AA4074659270B352F3D0E639E68A123D2633833703FC0503179D0704109CD3932D8905CDE6926058B4A70EBD2AB2ED666</ecb9>
+    <e312>4</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>user_rights</d748>
+      <dd16>nvikander</dd16>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>SeSecurityPrivilege</c73a>
+        <a76c>true</a76c>
+      </T1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>DBBE</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      7FB281B0B4B17146858C4701636493094B99F406760C7ECFEB1D73301978101AFF16ACD176E443E3162E1E96BFEE1E68F39116192E0FF762C1B8E708B0724EE24A96B0B22FF4E0B4BE710D455CDF3D78D4</ecb9>
+    <e312>-3</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media\trojan.dll</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>XYLP</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      97DED214CF9FAD8592ED7F832620E7BA1F8EE553A1AC5D161824ADC76B303DCE7FFDC0C27FDC704FEC47EC4FF57ABA4225596E00B4C79D0891853655AFEBD0562910F5D67D4337637175666861821488F8</ecb9>
+    <e312>-2</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions\WindowsMessenger.admx</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>FWALL</f423>
+    <ba3f>DEF</ba3f>
+    <ecb9>
+      6096C5E30C16F120EF3135CA2CB6B6AB1D594FB0D59234E8264FD6D71589A25623999441CE9602711CE2FFD0AD460CB0CB021C511B1614B877940D88639739D17CFDC9D295671FAC</ecb9>
+    <e312>3</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>firewall</d748>
+    </e792>
+    <e792>
+
+
+      <c53d>T2</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile</f5fe>
+      <c196>EnableFirewall</c196>
+    </e792>
+    <e792>
+
+
+      <c53d>T3</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SOFTWARE\Policies\Microsoft\WindowsFirewall\PrivateProfile</f5fe>
+      <c196>EnableFirewall</c196>
+    </e792>
+    <e792>
+
+
+      <c53d>T4</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SOFTWARE\Policies\Microsoft\WindowsFirewall\PublicProfile</f5fe>
+      <c196>EnableFirewall</c196>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>Enabled</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+    </d4f5>
+    <d4f5>
+
+
+      <T2>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T2>
+      <T3>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T3>
+      <T4>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T4>
+      <T2>
+
+
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </T2>
+      <T3>
+
+
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </T3>
+      <T4>
+
+
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </T4>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>PQOI</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      194C6B9A3E2969F263B9EE7BBD4E7083327A6AB3071139215B9D3C719BE93E82AB21833ACC4DBEE129094853F6C9AAC66D3E0C04C9C837DB9E22819784F74D9CA1C39C277F662A3831867BDC58BFF4E532</ecb9>
+    <e312>-2</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Prefetch\WMIPRVSE.EXE-1628051C.pf</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Prefetch</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>ETYSW</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      6F9AF89948CA30BA90182972712EE72F404A55736D39ABDC6433FEAAF68E5C5D9B5A476314E1235E281E1F5D408D49FFE6CAD1735B4DBE034B91B1D3B88E4002F2AA5A058B51213DC499BB34BF1303</ecb9>
+    <e312>-2</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SYSTEM\CurrentControlSet\Control\Class\{4d36e97d-e325-11ce-bfc1-08002be10318}\0096</f5fe>
+      <c196>MatchingDeviceId</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>RAST</f423>
+    <ba3f>SYS</ba3f>
+    <ecb9>
+      833D7F00FA63298FCA27388686B6A3B85558979B09E674C2C98AF5AD7A8B989D27553519DF85F3E19031C705EC2FBEAB4C35249CC07A115B8B5D777C2A02300F3AF4A774E1DF8A5D2BB2CC14CD6E565A7587B8DB</ecb9>
+    <e312>5</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SYSTEM\CurrentControlSet\Control\Remote Assistance</f5fe>
+      <c196>fAllowToGetHelp</c196>
+    </e792>
+    <e792>
+
+
+      <c53d>T2</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services</f5fe>
+      <c196>fAllowToGetHelp</c196>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </T1>
+      <T2>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </T2>
+    </d4f5>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>Value</c73a>
+        <bbc2>0</bbc2>
+      </T1>
+    </d4f5>
+    <d4f5>
+
+
+      <T2>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T2>
+      <T2>
+
+
+        <c73a>Value</c73a>
+        <bbc2>0</bbc2>
+      </T2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>WIN10_L19</f423>
+    <ba3f>OUP</ba3f>
+    <ecb9>
+      A71F9EA2629799594C1400801877D36D20B71BF7C4E3F7DF45CD1E38F6DB6ACDDCE4B84405FEA2EFDDEFBD526DBAB9C1B0B62C9012804BE1179D52CADD2C9CCB8BD505FBB8ADD85AE4153AA510481B6EEB</ecb9>
+    <e312>6</e312>
+    <e792>
+
+
+      <d748>file</d748>
+      <c53d>T1</c53d>
+      <cff9>C:\Windows\Sysnative\gdi32.dll</cff9>
+    </e792>
+    <e792>
+
+
+      <d748>file</d748>
+      <c53d>T2</c53d>
+      <cff9>C:\Windows\Sysnative\crypt32.dll</cff9>
+    </e792>
+    <e792>
+
+
+      <d748>file</d748>
+      <c53d>T3</c53d>
+      <cff9>C:\Windows\Sysnative\shell32.dll</cff9>
+    </e792>
+    <e792>
+
+
+      <d748>file</d748>
+      <c53d>T4</c53d>
+      <cff9>C:\Windows\Sysnative\ntdll.dll</cff9>
+    </e792>
+    <e792>
+
+
+      <d748>file</d748>
+      <c53d>T5</c53d>
+      <cff9>C:\Windows\Sysnative\ntoskrnl.exe</cff9>
+    </e792>
+    <e792>
+
+
+      <d748>file</d748>
+      <c53d>T6</c53d>
+      <cff9>C:\Windows\explorer.exe</cff9>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>FileVersionBuild</c73a>
+        <a4cb>17763</a4cb>
+      </T1>
+      <T2>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T2>
+      <T2>
+
+
+        <c73a>FileVersionBuild</c73a>
+        <a4cb>17763</a4cb>
+      </T2>
+      <T3>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T3>
+      <T3>
+
+
+        <c73a>FileVersionBuild</c73a>
+        <a4cb>17763</a4cb>
+      </T3>
+      <T4>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T4>
+      <T4>
+
+
+        <c73a>FileVersionBuild</c73a>
+        <a4cb>17763</a4cb>
+      </T4>
+      <T5>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T5>
+      <T5>
+
+
+        <c73a>FileVersionBuild</c73a>
+        <a4cb>17763</a4cb>
+      </T5>
+      <T6>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T6>
+      <T6>
+
+
+        <c73a>FileVersionBuild</c73a>
+        <a4cb>17763</a4cb>
+      </T6>
+    </d4f5>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>FileVersionBuild</c73a>
+        <bbc2>17763</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>FileVersionRevision</c73a>
+        <a4cb>1</a4cb>
+      </T1>
+      <T2>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T2>
+      <T2>
+
+
+        <c73a>FileVersionBuild</c73a>
+        <bbc2>17763</bbc2>
+      </T2>
+      <T2>
+
+
+        <c73a>FileVersionRevision</c73a>
+        <a4cb>1</a4cb>
+      </T2>
+      <T3>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T3>
+      <T3>
+
+
+        <c73a>FileVersionBuild</c73a>
+        <bbc2>17763</bbc2>
+      </T3>
+      <T3>
+
+
+        <c73a>FileVersionRevision</c73a>
+        <a4cb>292</a4cb>
+      </T3>
+      <T4>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T4>
+      <T4>
+
+
+        <c73a>FileVersionBuild</c73a>
+        <bbc2>17763</bbc2>
+      </T4>
+      <T4>
+
+
+        <c73a>FileVersionRevision</c73a>
+        <a4cb>292</a4cb>
+      </T4>
+      <T5>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T5>
+      <T5>
+
+
+        <c73a>FileVersionBuild</c73a>
+        <bbc2>17763</bbc2>
+      </T5>
+      <T5>
+
+
+        <c73a>FileVersionRevision</c73a>
+        <a4cb>316</a4cb>
+      </T5>
+      <T6>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T6>
+      <T6>
+
+
+        <c73a>FileVersionBuild</c73a>
+        <bbc2>17763</bbc2>
+      </T6>
+      <T6>
+
+
+        <c73a>FileVersionRevision</c73a>
+        <a4cb>107</a4cb>
+      </T6>
+    </d4f5>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>FileVersionRevision</c73a>
+        <a4cb>1</a4cb>
+      </T1>
+      <T2>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T2>
+      <T2>
+
+
+        <c73a>FileVersionRevision</c73a>
+        <a4cb>1</a4cb>
+      </T2>
+      <T3>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T3>
+      <T3>
+
+
+        <c73a>FileVersionRevision</c73a>
+        <a4cb>292</a4cb>
+      </T3>
+      <T4>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T4>
+      <T4>
+
+
+        <c73a>FileVersionRevision</c73a>
+        <a4cb>292</a4cb>
+      </T4>
+      <T5>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T5>
+      <T5>
+
+
+        <c73a>FileVersionRevision</c73a>
+        <a4cb>316</a4cb>
+      </T5>
+      <T6>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T6>
+      <T6>
+
+
+        <c73a>FileVersionRevision</c73a>
+        <a4cb>107</a4cb>
+      </T6>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>XXOHU</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      306D4BB6E5B56FBF160BFB5B5D93637E8D4EA7101F21DEEDF84870D44C3A8E0139B3807E9C09BD40B7D53F66ADD56BA3D380CC3CAF18E429C65C87987EC5FCC4DB3207E895804916C5224F0CCE12AD</ecb9>
+    <e312>-6</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\0</f5fe>
+      <c196>1802</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>TLCPO</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      1E37A4B0E3D34C61579470FD41D80E30D71E9FAF850D7233A55FB4869078745DC2BF330EDEC5F69755A19CE532E94702B54178447D82DF37F1004C06C66D6A3F9FB48EDAA173A22A1CE95C80ED4EC6</ecb9>
+    <e312>-3</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>
+        SOFTWARE\Microsoft\Windows
+        NT\CurrentVersion\Perflib\_V2Providers\{a3886623-dd46-48fc-a1f9-e3da35125995}\{042478fc-1449-4b04-a0d8-ba5660ab739a}</f5fe>
+      <c196>NeutralName</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>DNXW</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      3539D0D408033DA577FA2CA218E8B3274C510919DF9ED117C4A8E7D17FD684A48DA8768BD68B7D4DCF8A8655A9DAE2B1829302ED46C7DDF58C71D2AF0BB6CAE3C497FE205CFEB8103D70D1540F8D5F3483</ecb9>
+    <e312>-4</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media\Windows Minimize.wav</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>OFADL</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      A916034452FB31F20C9FF682BD83DF432D0FCABF6FBEF9B7CED4EF0B026D5885ABD6C1DF5D13E403FCDB88DF2DBD59A990350712D3562EBE4D1B5C1316CB33C622E2F4A8798266725FA667B8DDC433</ecb9>
+    <e312>-3</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>
+        SYSTEM\CurrentControlSet\Control\NetDiagFx\Microsoft\HostDLLs\WPPTrace\HelperClasses\wlan_wpp\Providers\{E2EB5B52-08B1-4391-B670-F58317376247}</f5fe>
+      <c196 />
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>FF</f423>
+    <ba3f>AUP</ba3f>
+    <ecb9>
+      0C43C74524CC8C09A9E1CC23A7B95B43A2FADB54AC45490B03A8AB3D187099551ED968D92978CE42536A10F1029DBFE92646EBBBC859E2955320B4D2</ecb9>
+    <e312>5</e312>
+    <e792>
+
+
+      <d748>file</d748>
+      <c53d>T1</c53d>
+      <cff9>C:\Program Files\Mozilla Firefox\firefox.exe</cff9>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>FileVersionMajor</c73a>
+        <a4cb>72</a4cb>
+      </T1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>IKNDN</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      C27D1534A3C764D4FCB8436D5E90AC141A55FCFB248418E9ACD8FD7B2762557618396EA93B46761A9E2C3E7F04C775D37CB81C1E8D36FB695AE2C5D79D92E78740D85F5FCBC65272B3D9931FB342FC</ecb9>
+    <e312>-4</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0000</f5fe>
+      <c196>NoDisplayClass</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>FXKA</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      2D05B931BA9D0BD0B4DAB81967CC25D094A5B358189E73D2BD1D2B7C98EE1F3D1C1BD92EE3E685F29C632FE4221ED8CC29B2039B2540DCBB1AECDD027B77427D37253294CD24C025770EEA6BA390C561CB</ecb9>
+    <e312>-3</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions\WinLogon.admx</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>NYDZ</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      07F632DAF476955D6E3AAF15C52E593EE1E73D78F1489684692FAA0F84A38331D68A465245D865E0B2D71BCBD1E58C155D80D1A1B3D40895ED3D293577890807CB1797A5FCB73903838370E1D1B4956F58</ecb9>
+    <e312>-6</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media\Show_48000Hz.raw</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>RVZB</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      7EA38C591FB33B6F8190868838E37B0C7DD186F69BFCBDF741DBC154AB8BF6551EAF42F2BDC7DC1A081A9EFB215AF064D5143F4A664BD561572B87A4EB904431987D9CDDA3C8A1A7BFADDE5CAD1FD64883</ecb9>
+    <e312>-3</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media\Windows Hardware Remove.wav</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>AFFI</f423>
+    <ba3f>FIL</ba3f>
+    <ecb9>
+      FB3D3D1D6DCC4E4EE415D5C2E4D24CF923A5A52DEDC57BAD340CF835C0BC9CA1A82F4A924C87FCCBBF65A932D5C3911629065EA79D78D713840976D0F11D28426C515D54FD</ecb9>
+    <e312>4</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\Public\Downloads\thisisaffinecode.txt</cff9>
+    </e792>
+    <e792>
+
+
+      <c53d>T2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\Public\</cff9>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </T1>
+      <T2>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>WSHRK</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      173C730EB55C5858BF710E38A2BC75D64F77D33C9E534D2C757ADE6BEA1E88C9D4DF0281FDF42F72013AFE21B1C29672FCDE161551</ecb9>
+    <e312>4</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Program Files\Wireshark\Wireshark.exe</cff9>
+    </e792>
+    <e792>
+
+
+      <c53d>T2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Program Files\</cff9>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </T1>
+      <T2>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>LZXR</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      7AFB8152C403DDDC82F894E39D18ECE49E1DAA5B2402F6AE4416BD63A73821ADD619E9807295B48072D0D07FE371B76BC4FCEF3C75A6166254376509F228087280E80FD3C25BDBF1F950E13DD856818BB7</ecb9>
+    <e312>-2</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\mytrojan.exe</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>BENUS</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      87614415BCFAA558A82AE14F77B8E2F1B43D3AC751FB2BFC93D66A1470213A7865E12F68EFEDC8F41606E262360C8080C44F4C41ACED05CE3AF899FD4C7AAB8A0AEFE9338799C2BCF74BB39679541F</ecb9>
+    <e312>-4</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>
+        SYSTEM\CurrentControlSet\Control\WMI\Autologger\EventLog-Application\{d8965fcf-7397-4e0e-b750-21a4580bd880}</f5fe>
+      <c196>Status</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>NETS</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      2CAAB27723AC8E7511D8988DF393579AB01F34A1C565DE018627505F62C8359E189F1A2BB5630A96966929567456B2CA0257CBD9147E65</ecb9>
+    <e312>4</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Program Files (x86)\Network Stumbler\NetStumbler.exe</cff9>
+    </e792>
+    <e792>
+
+
+      <c53d>T2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Program Files (x86)\</cff9>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </T1>
+      <T2>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+
+
+    <f423>PCFIX</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      C9F61976CEF03A5EEED5BCC98D9C1E72C2E59C76D5AFD21BCBD3361482EA80D7944B2311019E0E6710608660FE2E3EFE7720EFD399E7</ecb9>
+    <e312>4</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Program Files (x86)\PC Cleaner\PCCleaner.exe</cff9>
+    </e792>
+    <e792>
+
+
+      <c53d>T2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Program Files (x86)\</cff9>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </T1>
+      <T2>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>QEGP</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      09748CC96B00557564847E36F46181D44583A67AB91FB6F11E4A33E5E6DDAFF76F932B015F7A0B9E23D33D59F07F7963CD3217A9034A27985DEBE1504151168126D9D695CF81B66A14898DF0E338480125</ecb9>
+    <e312>-4</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\en-US\winhlp32.exe.mui</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\en-US</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>RRLU</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      210423BCF554636DBC60EA8B366BD3E4E5A43ED035B5BE88A7F065103B0939EC4930F39F5112F83B308B7ABE5945A407E1CD1A23E659278F16AC8EE4ABC8A862D798116BEE553A3CF9FB63686D54AAFE38</ecb9>
+    <e312>-2</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions\DiskDiagnostic.admx</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>LWMB</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      D535170B3ECEB5145EF14F4F1FFBBEAC9954F2B86B11A77B202A8571EBD5F1B4BA24C30656725B16E33C2CF5C43FE03F2081A721C00EF0C57B15D097ECC4F149A48E367B2AC9B26DEAC6438F8A470C513F</ecb9>
+    <e312>-3</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Program Files\Windows Defender\AmMonitoringInstall.mof</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Program Files\Windows Defender</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>LQJO</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      E78E15ED5668A823EBC9ADC2403315A62C43595E4D8D2C7FC072A7BA749463CE8F718CA8824E3239CF0F743FD18BAFFEB6BDA0D488C4A5F6A7A3E1B6154AD756DB4D41F19E40F1B3010EE9D5703FF5F255</ecb9>
+    <e312>-4</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\en-US\notepad.exe.mui</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\en-US</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <a71b>
+
+
+    <f423>LOCK</f423>
+    <ba3f>PEN</ba3f>
+    <ecb9>
+      6F6C8E4B346C4B66EBD2FD7AA221DF4F2DBC2FC53E4ADC3B5CF345F6FF711CF87CC5939FCA02FE661FE6634E840B8156BCF401BA34FED6AD83A13428280A16D80E1DEC95407BB3DDBB8FD1DCFAFC9696034C35A90E</ecb9>
+    <e312>3</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>account_lockout_policy</d748>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </T1>
+      <T1>
+
+
+        <c73a>LockoutThreshold</c73a>
+        <a4cb>0</a4cb>
+      </T1>
+      <T1>
+
+
+        <c73a>LockoutThreshold</c73a>
+        <d82a>5</d82a>
+      </T1>
+    </d4f5>
+  </a71b>
+  <ee2b>
+    <f423>YLTZM</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      27403108C13AF1ABFD7EFC906A57DA7B6596180EFEFB0CFEB6952BA743DD579CCF6FDA646070FDC1682C88C17A5CBF038992E2377DE9658DDBE1923F07A55D8B102E6A8ACE37F959BF30250E292175</ecb9>
+    <e312>-3</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>
+        SOFTWARE\Microsoft\Windows
+        NT\CurrentVersion\Perflib\_V2Providers\{3def464b-f31b-4117-8fb7-bb829a0e1a15}\{c5a19aba-349b-49cc-94c8-f36404082727}</f5fe>
+      <c196>InstanceType</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <a71b>
+
+
+    <f423>SFT_FF</f423>
+    <ba3f>PEN</ba3f>
+    <ecb9>
+      7FB569D0EC88D9D13016A1DEE98E3F4B535DB459A2D475F7241AF78FD188E505017C9C4B21D380850898EF895A74385F89AF60D5FCF4018CD13ED0F671C4B8671C7D527FC2F606813E766E4A2F12198812AE4D3B</ecb9>
+    <e312>5</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Program Files\Mozilla Firefox\firefox.exe</cff9>
+      <cff9>C:\Program Files (x86)\Mozilla Firefox\firefox.exe</cff9>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <a76c>true</a76c>
+      </T1>
+    </d4f5>
+  </a71b>
+  <ee2b>
+    <f423>KWVV</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      098515E3764D50EB7C7A62F5B6FF9C3822232633F27B84B2622B55E8BED06847D901F3BB459958D97281BEFA2C8074D43020FBB5FD27521BE19B29455FB1F4FAE1294BD7C68D9490F3EA992757EFECAE55</ecb9>
+    <e312>-4</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions\EventForwarding.admx</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <a71b>
+
+
+    <f423>SFT_IN</f423>
+    <ba3f>PEN</ba3f>
+    <ecb9>
+      519F39B72C5ED121201C690EC1F3F376FBA33023C765927EAC5D84C5714A6778D4D44F76717E672A8467BCEC778D34636587E654C3F56A5CE6C6440A60A79987761985772DBC072772BE11D28F9DB29F61E0668F63</ecb9>
+    <e312>5</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Program Files\Inkscape\bin\inkscape.exe</cff9>
+      <cff9>C:\Program Files (x86)\Inkscape\bin\inkscape.exe</cff9>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <a76c>true</a76c>
+      </T1>
+    </d4f5>
+  </a71b>
+  <ee2b>
+    <f423>CXFC</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      214A223AA087CB0825B488B6385D86928CB92D122CAEB88DFC1BA312934EC3F15B089BB6B977F5DB68B61877A103F3A445C83A74D490A8D2F4B87B6BC7D3390FDBB83AE6F938E0DF3783FDFBF9B6DF9FDF</ecb9>
+    <e312>-4</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions\ShapeCollector.admx</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>LWYKA</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      D287035F9AB64400E8EA97C8C2B02987ADB3FBBF88A8B8EF00EB675AD029C8ACA3CF2F5546D5F213AF1417CCEEE80973A8DF1E87D7FAF9DE1D8C1DA1463C08EC63D5A8466F68F36BE4AB367AB9452B</ecb9>
+    <e312>-2</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SYSTEM\CurrentControlSet\Services\swprv</f5fe>
+      <c196>Type</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>BOJYC</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      8021EED215D2C983419F997801260B47976C2AF699953F68E5E50E8A37B07107C638FA9D3C496121FED21D72B7A0ECB9613C05C24A89F5476F033C457D16734950A20DD924B2AEBBE956B99819878D</ecb9>
+    <e312>-6</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SYSTEM\CurrentControlSet\Control\Keyboard Layouts\00010408</f5fe>
+      <c196 />
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <a71b>
+
+
+    <f423>SFT_GM</f423>
+    <ba3f>PEN</ba3f>
+    <ecb9>
+      6EFC04813E56F4625FE200BDD7BAC290C2529EFDF0E6D05DE0C1A3596114663A27BCF10E574A3EAEFEC6A483ED07B5CAC8EE74A45CB9A3114CC70A53B03DFA34D0D0A67FBF6D09F987A629BDC9950DF6CA</ecb9>
+    <e312>5</e312>
+    <e792>
+
+
+      <c53d>T1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Program Files\GIMP 2\bin\gimp-2.10.exe</cff9>
+      <cff9>C:\Program Files (x86)\GIMP 2\bin\gimp-2.10.exe</cff9>
+    </e792>
+    <d4f5>
+
+
+      <T1>
+
+
+        <c73a>Exists</c73a>
+        <a76c>true</a76c>
+      </T1>
+    </d4f5>
+  </a71b>
+  <ee2b>
+    <f423>IRZV</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      80848E8144E9A67D64545AC307A222ABA8174EAB94B2737C4B76752B2F996E242581B904038354BD44DFE2DBDB8FC835795A3B4E3FA58C4EDBA9A34F47AF0519BC9ABAB312144B76DE10380F8910055397</ecb9>
+    <e312>-2</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions\FolderRedirection.admx</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>YTOJ</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      4B025806523E90A83CB084845F894D774C09E9103A5BA7172A0D78D949111F7DEA2959674E04A106CB4E82518271FD10837CE8A998E32D1F03C82A97FFEC243CEDAE2031067A477B7CC28E3FD6AE4E80A7</ecb9>
+    <e312>-5</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions\wwansvc.admx</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>QYTFA</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      E10E330ADB59F93AFD5B1C7F73E3FCD106CD56BF1E841723AC00EF2655342F1F1BDCF95C3E8F64A0194C06EBE495925516EED3E33642625776A5FA0B2F7AEFC4B24BF7AA5D43D9253DD6C0788FF892</ecb9>
+    <e312>-5</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SYSTEM\CurrentControlSet\Control\Notifications</f5fe>
+      <c196>19890C35A3BC7875</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>RJEWN</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      569F0FF066ADF2E524AE6DE5B560918DFB89BA4133AF237495821FA2B56A04549E0C77C38BEC46C5E31320D4E3BBD52CCD0CABE253F39EDA344870BA222629ACCB517E1EF9A3A86B6633A22C228D7E</ecb9>
+    <e312>-2</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SYSTEM\CurrentControlSet\Control\Video\{90C08D39-EA1D-11E9-BC40-E3BF7FA122C5}\0003</f5fe>
+      <c196>VidPNSource0Height</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>CZETK</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      97333FC51991F9FE4F3A541FFC8ECA25FC19A4C8C805152084C212B8F5B9D8A60EECCE34E403C36D688945E9F1977813D18484DE393B4A39B26ADD937DE31960C964DF2F9336F38AB8B07FB6DE7649</ecb9>
+    <e312>-5</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>
+        SYSTEM\CurrentControlSet\Control\WMI\Autologger\EventLog-System\{f3c5e28e-63f6-49c7-a204-e48a1bc4b09d}</f5fe>
+      <c196>EnableLevel</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>HXOT</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      FC57C4F345A3715BAEA4AD02D715A6F5FAA64C1E898DE87183B0E146B19D6DEE8D33B1D63E6C1E7C1892984B51C82AB6AD0C07BD2C03DB0DECA84345069B5CBAF5096F83E7F6548EE94A059260937811A1</ecb9>
+    <e312>-4</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions\EAIME.admx</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>LMZJ</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      1BFAF4C16C946C5F3096F9B10ACA4754C7581DD02F14F4B1D12562418A8DC2D2F80AD813A2B6F21C447E108B749584AC056EDC810C5A1278F126B5FB74B2EBDB7A505B1BD4FC78E69E9A321D679DF88C27</ecb9>
+    <e312>-2</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media\Invoke_48000Hz.raw</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>ZAEE</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      E0EF07468816A98B1B06AFDE543B8E74402A4A5E0CEAFAFC2078C10BFBE2E38D76D2FD6F977FBE30263839F2BC693FA2A270137FDB91F457C60FCA576944A81AE8444A1C0C7B132AE0285800C7599584A7</ecb9>
+    <e312>-3</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions\PeerToPeerCaching.admx</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>VJQTI</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      433A674E1409B9564274A790F7D758D60602EBE533E5F803A9AAE4D0A6898ED995D1079FC3602BE0C792FC52335C3C814303FFF9DEF40CFADF406350D2B7AAA3127F75C52710D1475C787D40F94ECB</ecb9>
+    <e312>-6</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>
+        SOFTWARE\Microsoft\Windows
+        NT\CurrentVersion\Perflib\_V2Providers\{74800676-866f-4bbd-8680-dac6a6fb6c8e}\{06ebf20d-17fb-4338-a08d-7a99f17ca678}</f5fe>
+      <c196>ExplainResource</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>RQEE</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      1629EA865B92678AE5B9679B01E4B5F24564A2C3C21C2DD9CC459CF2E444958361492BB37BA8F0687D13FC458B4DB08E5C36E5AC05DCF740F2EC813EAD83171522077038A3A183B41D5FA1905384FCCB16</ecb9>
+    <e312>-3</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media\Hide_48000Hz.raw</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>HNGN</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      D149FD91EA82BA6C54E717031DDB0638F8AE7DD4FD8721B9D2F9245BEEF194B7FB0F9BC7644C00FC22DBF2F721A37DCED2195900D142B7D08A55A34FD9B932DF720CF7C8CB00CEF1B32E2C06945D325115</ecb9>
+    <e312>-6</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media\Windows User Account Control.wav</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>KJYCY</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      73EEDDC8F40F1E355215E476C7A114928AD0150D6FF3CEB53B94BC1DBC557B50A9F4E81725BA0012828447AFF5895B1E74F1A1FF9CF14A649D9638EFD3244C99480EAAC0094F79E2C46235E2FB3BFC</ecb9>
+    <e312>-5</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SOFTWARE\Microsoft\Internet Explorer\ActiveX
+        Compatibility\{A7866636-ED52-4722-82A9-6BAABEFDBF96}</f5fe>
+      <c196 />
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>TMHOO</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      D7A6F19C370C2E0B382DC3AB716100A10E9A49D163F3423353B5652430CC0B0876AF6DEECC2D302A12C9A44C309A2198D78E4AABFE7D0B45321E4A38CA088DD2EB64D5C7310F29F0FB5BCC3CACA351</ecb9>
+    <e312>-2</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>
+        SYSTEM\CurrentControlSet\Control\Power\PowerSettings\4f971e89-eebd-4455-a8de-9e59040e7347\7648efa3-dd9c-4e3e-b566-50f929386280\DefaultPowerSchemeValues\381b4222-f694-41f0-9685-ff5bb260df2e</f5fe>
+      <c196>AcSettingIndex</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>TKCB</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      93947A5E0FAF9B15DACC7322923243F53F88FCF2A1C311595F3134057262696658B2CB4ED13E249B50C798487F50B13009F9282A04BA95FDF68CB1B97651C111EE7A10B690DC31D997BB45EA900C6F16FF</ecb9>
+    <e312>-2</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media\Windows Logoff Sound.wav</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>PQEC</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      BA93DE1A00459416FAB6DBE909F16605E91EDFDC4938F92A3E95FAD66C5ADD22FAE5C778E286EF8ABA5EC2CFA665E545E08EF86B6ED5AF22FD556C59C5364E11D6DA8966A2D299CE8ED89DDCCC513E24BD</ecb9>
+    <e312>-3</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media\Windows Print complete.wav</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\Media</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>KZBQH</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      9D8BA619D9BF99E40E9B2AC5934CE85891072FA6A890C7CC98F4E3B0704F6DA6F0DDE42476A38D5704F9DC6A99FC9CD4523CA50CAFF7E9D6991AE3CD2CE5EFC465B9D7F1B6593290438F21DB03CEBF</ecb9>
+    <e312>-3</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SOFTWARE\Microsoft\Windows
+        NT\CurrentVersion\Perflib\_V2Providers\{3817cb9c-49a8-436b-bc29-5518877d3c3a}</f5fe>
+      <c196>InstallType</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>TNLZX</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      05935FED22D20D755FC8B598089630582A60CE60088C611A61C4F634A892D5C405812469C860FD649AA209B0B561DE11FC39EFCC5C56820A381A3DA6C32B836FFD0A9867F5ED9CA9F37B80B92FA675</ecb9>
+    <e312>-2</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>SYSTEM\CurrentControlSet\Services\lfsvc\Service\Configuration</f5fe>
+      <c196 />
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>KPCLQ</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      F7AAAA838D88B7293D7E145F9AF7690A04967246FFFDF1CA68E3B2690A620DADCA0F7B70B6408C43D0D606AC483E95A01C14D53B24ECA7952AEC0629B8951112736D025EFBB7B91F887277B2B8CFA0</ecb9>
+    <e312>-6</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>
+        SYSTEM\CurrentControlSet\Control\Power\EnergyEstimation\CPU\EfficiencyClass\0\PowerCurve\2</f5fe>
+      <c196>PowerEnvelope</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>HDIGF</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      E5A10061D2DDD3D1454B41D95DE3BFD9910023F4AC4F86A6C2C39CF652F21289CE0FFCE0CF65BC6A515F192E18F7A084C268E4DADE689BF2778C355D4C2B4B5C788AC37F4145A3C47DCE5825F6B0A5</ecb9>
+    <e312>-5</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>
+        SYSTEM\CurrentControlSet\Control\GraphicsDrivers\AdditionalModeLists\HDTV\1920x1080px50Hz_16x9</f5fe>
+      <c196>VerticalSync</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>JMGTD</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      A7EDB2582E605A8277DF391F54DE11FB3A51708663FBFBE3C539E8BE0DF28761D3F914734FB3A25CAEE8CB1C829BCCC8426BFC5AC907376BC969817EA952F7A12BB8A6EB62E1D1C6C7FC2DB7088693</ecb9>
+    <e312>-4</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>
+        SYSTEM\CurrentControlSet\Control\WMI\Autologger\EventLog-Application\{b977cf02-76f6-df84-cc1a-6a4b232322b6}</f5fe>
+      <c196>EnableProperty</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>IYSW</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      CE2BF67BC78CFF9B0D87A8CBCC424FBD51D0921E225AD8D5B4750FDB6266E52891C14E19176222F7A5F6CB529BFA3B2A5F6BDF54DCEA43D9C5ED462303422EC62F8D2C71F5A09C803B8AC615A391C9BD05</ecb9>
+    <e312>-2</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\System32\setup\tssysprep.dll</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\System32\setup</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <a71b>
+    <f423>USRA</f423>
+    <ba3f>PEN</ba3f>
+    <ecb9>
+      8344DE27C7EB5A6AEC4766D356CE0830D7168AAEE465C70D8CB8ACCB1648CAD65DF6B90B26935E7452C50BC03B68E3690F0911D11049A0F37B1D81C29E74B30B73AC51D77F20541B6C796D7D7CFE445E</ecb9>
+    <e312>5</e312>
+    <e792>
+      <c53d>U0</c53d>
+      <d748>user</d748>
+      <fb73>eleven</fb73>
+    </e792>
+    <e792>
+      <c53d>U1</c53d>
+      <d748>user</d748>
+      <fb73>pmitchell</fb73>
+    </e792>
+    <e792>
+      <c53d>U2</c53d>
+      <d748>user</d748>
+      <fb73>tkazansky</fb73>
+    </e792>
+    <e792>
+      <c53d>U3</c53d>
+      <d748>user</d748>
+      <fb73>ccain</fb73>
+    </e792>
+    <e792>
+      <c53d>U4</c53d>
+      <d748>user</d748>
+      <fb73>bsimpson</fb73>
+    </e792>
+    <d4f5>
+      <U0>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </U0>
+      <U0>
+        <c73a>Admin</c73a>
+        <bbc2>false</bbc2>
+      </U0>
+    </d4f5>
+    <d4f5>
+      <U0>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U0>
+    </d4f5>
+    <d4f5>
+      <U1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </U1>
+      <U1>
+        <c73a>Admin</c73a>
+        <bbc2>false</bbc2>
+      </U1>
+    </d4f5>
+    <d4f5>
+      <U1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U1>
+    </d4f5>
+    <d4f5>
+      <U2>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </U2>
+      <U2>
+        <c73a>Admin</c73a>
+        <bbc2>false</bbc2>
+      </U2>
+    </d4f5>
+    <d4f5>
+      <U2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U2>
+    </d4f5>
+    <d4f5>
+      <U3>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </U3>
+      <U3>
+        <c73a>Admin</c73a>
+        <bbc2>false</bbc2>
+      </U3>
+    </d4f5>
+    <d4f5>
+      <U3>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U3>
+    </d4f5>
+    <d4f5>
+      <U4>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </U4>
+      <U4>
+        <c73a>Admin</c73a>
+        <bbc2>false</bbc2>
+      </U4>
+    </d4f5>
+    <d4f5>
+      <U4>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U4>
+    </d4f5>
+  </a71b>
+  <ee2b>
+    <f423>YOEV</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      80D2512B7E2E65EA2C75C5D453CC8DE6EBCC7E676E24D6907E752F5ED90C779E28BA5EFB12B6F13FAB2FDDE75505DB96AD0D3959344381B0A0040BB6E1037404E352C3C8D4BB2A0D0CDC8A82B5EF9A1BC2</ecb9>
+    <e312>-2</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\servicing\CbsApi.dll</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\servicing</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <ee2b>
+    <f423>VQNJ</f423>
+    <ba3f>SFT</ba3f>
+    <ecb9>
+      550C3C949FF62014ABDC318F653FA9309F5E5C9D4D9CD624E8C7DF64D3D6C30CB1ECB2F4B1FFF9F94C850FC4B6021B4DA420551939CC7257050F238514AE3DFA602CD8499F348F52B86212F7F885EB9283</ecb9>
+    <e312>-4</e312>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions\Msi-FileRecovery.admx</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Windows\PolicyDefinitions</cff9>
+    </e792>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>true</bbc2>
+      </F1>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+  </ee2b>
+  <a71b>
+    <f423>USRS</f423>
+    <ba3f>PEN</ba3f>
+    <ecb9>
+      0176CE2F882E0949908B2E7AC570FD8D6779FB1098CC5C07D61AAFC6BDD79192BF364427A2698B83DB6F0F51B9B5AC4C23DE89B4453C040857791BEEC4D9779E21DDBB639A2D31</ecb9>
+    <e312>5</e312>
+    <e792>
+      <c53d>U0</c53d>
+      <d748>user</d748>
+      <fb73>abenjamin</fb73>
+    </e792>
+    <e792>
+      <c53d>U1</c53d>
+      <d748>user</d748>
+      <fb73>bbradshaw</fb73>
+    </e792>
+    <e792>
+      <c53d>U2</c53d>
+      <d748>user</d748>
+      <fb73>rfloyd</fb73>
+    </e792>
+    <e792>
+      <c53d>U3</c53d>
+      <d748>user</d748>
+      <fb73>sbates</fb73>
+    </e792>
+    <e792>
+      <c53d>U4</c53d>
+      <d748>user</d748>
+      <fb73>bcoleman</fb73>
+    </e792>
+    <e792>
+      <c53d>U5</c53d>
+      <d748>user</d748>
+      <fb73>cbradshaw</fb73>
+    </e792>
+    <e792>
+      <c53d>U6</c53d>
+      <d748>user</d748>
+      <fb73>ntrace</fb73>
+    </e792>
+    <e792>
+      <c53d>U7</c53d>
+      <d748>user</d748>
+      <fb73>rfitch</fb73>
+    </e792>
+    <e792>
+      <c53d>U8</c53d>
+      <d748>user</d748>
+      <fb73>mgarcia</fb73>
+    </e792>
+    <e792>
+      <c53d>U9</c53d>
+      <d748>user</d748>
+      <fb73>jmachado</fb73>
+    </e792>
+    <e792>
+      <c53d>U10</c53d>
+      <d748>user</d748>
+      <fb73>bavalone</fb73>
+    </e792>
+    <e792>
+      <c53d>U11</c53d>
+      <d748>user</d748>
+      <fb73>llee</fb73>
+    </e792>
+    <e792>
+      <c53d>U12</c53d>
+      <d748>user</d748>
+      <fb73>blennox</fb73>
+    </e792>
+    <e792>
+      <c53d>U13</c53d>
+      <d748>user</d748>
+      <fb73>nvikander</fb73>
+    </e792>
+    <e792>
+      <c53d>U14</c53d>
+      <d748>user</d748>
+      <fb73>cbassett</fb73>
+    </e792>
+    <e792>
+      <c53d>U15</c53d>
+      <d748>user</d748>
+      <fb73>skazansky</fb73>
+    </e792>
+    <d4f5>
+      <U0>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U0>
+    </d4f5>
+    <d4f5>
+      <U1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U1>
+    </d4f5>
+    <d4f5>
+      <U2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U2>
+    </d4f5>
+    <d4f5>
+      <U3>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U3>
+    </d4f5>
+    <d4f5>
+      <U4>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U4>
+    </d4f5>
+    <d4f5>
+      <U5>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U5>
+    </d4f5>
+    <d4f5>
+      <U6>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U6>
+    </d4f5>
+    <d4f5>
+      <U7>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U7>
+    </d4f5>
+    <d4f5>
+      <U8>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U8>
+    </d4f5>
+    <d4f5>
+      <U9>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U9>
+    </d4f5>
+    <d4f5>
+      <U10>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U10>
+    </d4f5>
+    <d4f5>
+      <U11>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U11>
+    </d4f5>
+    <d4f5>
+      <U12>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U12>
+    </d4f5>
+    <d4f5>
+      <U13>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U13>
+    </d4f5>
+    <d4f5>
+      <U14>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U14>
+    </d4f5>
+    <d4f5>
+      <U15>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </U15>
+    </d4f5>
+  </a71b>
+  <a71b>
+    <f423>USRD</f423>
+    <ba3f>PEN</ba3f>
+    <ecb9>
+      B1D9A6CE5114D4FB592E1943E626EA5D0B8FC6E516DF4833CA7187916DAFCD38DD86241BF3BBCA4196814383543AEF228DD0EE1AB34F8C24A0A1839CEA0F9C17D7098CE2988423A391EF1D6DD043BED4</ecb9>
+    <e312>5</e312>
+    <e792>
+      <c53d>F0</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\eleven</cff9>
+    </e792>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\pmitchell</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\tkazansky</cff9>
+    </e792>
+    <e792>
+      <c53d>F3</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\ccain</cff9>
+    </e792>
+    <e792>
+      <c53d>F4</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\bsimpson</cff9>
+    </e792>
+    <e792>
+      <c53d>F5</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\abenjamin</cff9>
+    </e792>
+    <e792>
+      <c53d>F6</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\bbradshaw</cff9>
+    </e792>
+    <e792>
+      <c53d>F7</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\rfloyd</cff9>
+    </e792>
+    <e792>
+      <c53d>F8</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\sbates</cff9>
+    </e792>
+    <e792>
+      <c53d>F9</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\bcoleman</cff9>
+    </e792>
+    <e792>
+      <c53d>F10</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\cbradshaw</cff9>
+    </e792>
+    <e792>
+      <c53d>F11</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\ntrace</cff9>
+    </e792>
+    <e792>
+      <c53d>F12</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\rfitch</cff9>
+    </e792>
+    <e792>
+      <c53d>F13</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\mgarcia</cff9>
+    </e792>
+    <e792>
+      <c53d>F14</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\jmachado</cff9>
+    </e792>
+    <e792>
+      <c53d>F15</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\bavalone</cff9>
+    </e792>
+    <e792>
+      <c53d>F16</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\llee</cff9>
+    </e792>
+    <e792>
+      <c53d>F17</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\blennox</cff9>
+    </e792>
+    <e792>
+      <c53d>F18</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\nvikander</cff9>
+    </e792>
+    <e792>
+      <c53d>F19</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\cbassett</cff9>
+    </e792>
+    <e792>
+      <c53d>F20</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\skazansky</cff9>
+    </e792>
+    <d4f5>
+      <F0>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F0>
+    </d4f5>
+    <d4f5>
+      <F1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F1>
+    </d4f5>
+    <d4f5>
+      <F2>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F2>
+    </d4f5>
+    <d4f5>
+      <F3>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F3>
+    </d4f5>
+    <d4f5>
+      <F4>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F4>
+    </d4f5>
+    <d4f5>
+      <F5>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F5>
+    </d4f5>
+    <d4f5>
+      <F6>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F6>
+    </d4f5>
+    <d4f5>
+      <F7>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F7>
+    </d4f5>
+    <d4f5>
+      <F8>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F8>
+    </d4f5>
+    <d4f5>
+      <F9>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F9>
+    </d4f5>
+    <d4f5>
+      <F10>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F10>
+    </d4f5>
+    <d4f5>
+      <F11>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F11>
+    </d4f5>
+    <d4f5>
+      <F12>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F12>
+    </d4f5>
+    <d4f5>
+      <F13>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F13>
+    </d4f5>
+    <d4f5>
+      <F14>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F14>
+    </d4f5>
+    <d4f5>
+      <F15>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F15>
+    </d4f5>
+    <d4f5>
+      <F16>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F16>
+    </d4f5>
+    <d4f5>
+      <F17>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F17>
+    </d4f5>
+    <d4f5>
+      <F18>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F18>
+    </d4f5>
+    <d4f5>
+      <F19>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F19>
+    </d4f5>
+    <d4f5>
+      <F20>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </F20>
+    </d4f5>
+  </a71b>
+  <ee2b>
+    <f423>VYBYA</f423>
+    <ba3f>POL</ba3f>
+    <ecb9>
+      737E6EF37E5765262CC346FFA5A866DAE212FA116765804979FF8ADB4D80200B7E18F881DB3EE52C5B28CFA75ED09E5045F56167AAB4B7E5EDAED13407FF93F6907FD5EF587E5AAF5FED815588C6A8</ecb9>
+    <e312>-3</e312>
+    <e792>
+      <c53d>R1</c53d>
+      <d748>registry</d748>
+      <e4d2>HKEY_LOCAL_MACHINE</e4d2>
+      <f5fe>
+        SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\Windows.MultiVerb.PowershellAsAdmin</f5fe>
+      <c196>Icon</c196>
+    </e792>
+    <d4f5>
+      <R1>
+        <c73a>Exists</c73a>
+        <bbc2>false</bbc2>
+      </R1>
+      <R1>
+        <c73a>Value</c73a>
+        <bbc2>1</bbc2>
+      </R1>
+    </d4f5>
+  </ee2b>
+  <ed93>
+    <f423>USRS</f423>
+    <ba3f>SCR</ba3f>
+    <ecb9>
+      FA82D4DA35B9133A281662807C5AD366409AD1B42DB337290CAAD9F6751D7938CB155FBE7199A912C7A3C1DDA4DBD3AF0718F2151EB203C3BC6D046CFE4AEA4B3646C95E</ecb9>
+    <e792>
+      <c53d>U0</c53d>
+      <d748>user</d748>
+      <fb73>eleven</fb73>
+    </e792>
+    <e792>
+      <c53d>U1</c53d>
+      <d748>user</d748>
+      <fb73>pmitchell</fb73>
+    </e792>
+    <e792>
+      <c53d>U2</c53d>
+      <d748>user</d748>
+      <fb73>tkazansky</fb73>
+    </e792>
+    <e792>
+      <c53d>U3</c53d>
+      <d748>user</d748>
+      <fb73>ccain</fb73>
+    </e792>
+    <e792>
+      <c53d>U4</c53d>
+      <d748>user</d748>
+      <fb73>bsimpson</fb73>
+    </e792>
+    <e792>
+      <c53d>U5</c53d>
+      <d748>user</d748>
+      <fb73>abenjamin</fb73>
+    </e792>
+    <e792>
+      <c53d>U6</c53d>
+      <d748>user</d748>
+      <fb73>bbradshaw</fb73>
+    </e792>
+    <e792>
+      <c53d>U7</c53d>
+      <d748>user</d748>
+      <fb73>rfloyd</fb73>
+    </e792>
+    <e792>
+      <c53d>U8</c53d>
+      <d748>user</d748>
+      <fb73>sbates</fb73>
+    </e792>
+    <e792>
+      <c53d>U9</c53d>
+      <d748>user</d748>
+      <fb73>bcoleman</fb73>
+    </e792>
+    <e792>
+      <c53d>U10</c53d>
+      <d748>user</d748>
+      <fb73>cbradshaw</fb73>
+    </e792>
+    <e792>
+      <c53d>U11</c53d>
+      <d748>user</d748>
+      <fb73>ntrace</fb73>
+    </e792>
+    <e792>
+      <c53d>U12</c53d>
+      <d748>user</d748>
+      <fb73>rfitch</fb73>
+    </e792>
+    <e792>
+      <c53d>U13</c53d>
+      <d748>user</d748>
+      <fb73>mgarcia</fb73>
+    </e792>
+    <e792>
+      <c53d>U14</c53d>
+      <d748>user</d748>
+      <fb73>jmachado</fb73>
+    </e792>
+    <e792>
+      <c53d>U15</c53d>
+      <d748>user</d748>
+      <fb73>bavalone</fb73>
+    </e792>
+    <e792>
+      <c53d>U16</c53d>
+      <d748>user</d748>
+      <fb73>llee</fb73>
+    </e792>
+    <e792>
+      <c53d>U17</c53d>
+      <d748>user</d748>
+      <fb73>blennox</fb73>
+    </e792>
+    <e792>
+      <c53d>U18</c53d>
+      <d748>user</d748>
+      <fb73>nvikander</fb73>
+    </e792>
+    <e792>
+      <c53d>U19</c53d>
+      <d748>user</d748>
+      <fb73>cbassett</fb73>
+    </e792>
+    <e792>
+      <c53d>U20</c53d>
+      <d748>user</d748>
+      <fb73>skazansky</fb73>
+    </e792>
+  </ed93>
+  <ed93>
+    <f423>USRD</f423>
+    <ba3f>SCR</ba3f>
+    <ecb9>
+      1B4C0E91C54526F861E3C3272A78757061B510B1B61553DB358D7A95951F8D5E8B700CF0DFBAA08187296FD440A3C6D3008209027631D621BED2C663B3B1D4813C15FCD70B6314BE96968E29D2</ecb9>
+    <e792>
+      <c53d>F0</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\eleven</cff9>
+    </e792>
+    <e792>
+      <c53d>F1</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\pmitchell</cff9>
+    </e792>
+    <e792>
+      <c53d>F2</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\tkazansky</cff9>
+    </e792>
+    <e792>
+      <c53d>F3</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\ccain</cff9>
+    </e792>
+    <e792>
+      <c53d>F4</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\bsimpson</cff9>
+    </e792>
+    <e792>
+      <c53d>F5</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\abenjamin</cff9>
+    </e792>
+    <e792>
+      <c53d>F6</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\bbradshaw</cff9>
+    </e792>
+    <e792>
+      <c53d>F7</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\rfloyd</cff9>
+    </e792>
+    <e792>
+      <c53d>F8</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\sbates</cff9>
+    </e792>
+    <e792>
+      <c53d>F9</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\bcoleman</cff9>
+    </e792>
+    <e792>
+      <c53d>F10</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\cbradshaw</cff9>
+    </e792>
+    <e792>
+      <c53d>F11</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\ntrace</cff9>
+    </e792>
+    <e792>
+      <c53d>F12</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\rfitch</cff9>
+    </e792>
+    <e792>
+      <c53d>F13</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\mgarcia</cff9>
+    </e792>
+    <e792>
+      <c53d>F14</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\jmachado</cff9>
+    </e792>
+    <e792>
+      <c53d>F15</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\bavalone</cff9>
+    </e792>
+    <e792>
+      <c53d>F16</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\llee</cff9>
+    </e792>
+    <e792>
+      <c53d>F17</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\blennox</cff9>
+    </e792>
+    <e792>
+      <c53d>F18</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\nvikander</cff9>
+    </e792>
+    <e792>
+      <c53d>F19</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\cbassett</cff9>
+    </e792>
+    <e792>
+      <c53d>F20</c53d>
+      <d748>file</d748>
+      <cff9>C:\Users\skazansky</cff9>
+    </e792>
+  </ed93>
+  <ff90>
+    F4C10D2CE9A579F80E4F0A68D327DD0722F2A91333D01852E578610A24EDFCF3B9404CE65F1B9A24C997EF5B0191181ECB5D2A883A84B529F6C449F18E0592D02B690F376FD45B7BD862A3E0101EAC957B82FA31EEB8756BA7FE4F91BBD488EB4278F5283C6A8708E7150913EFB919F3C45CA94316710A887A3B3E201766A797F865EE5DD2E9C5804251C60464A75327BBD78AD007A4B7814F75894A7FBED52463E8188D9BC344EBCBC951E2F2E330090883A174598A009DDDAA17F1EC4BD601ACC8792F0659D751F2CFC9B5D00B405EA33DA772AF3E82E986B135FABE491B0CB3A64AE42943DE28CCD6EC0DBF90B92FB234E9AFC510C570FEAE56075241664613724EC52E4CF882813E47033C2E64817C87A40C0C0C3C0063E3B0F5EF9E5DEA61F869502361385198C96D22C718F90A3BE73395A565080286281A0D6CA419F73D90E2C6D3DA00F80B1D186114018BFD7077813DB2C6917CBF15272C27C185F1A01EF9FDBDE966A17F0BDD7F46CBDBE1444987808DE85E6944C00C25A17BA90B1BF2A19ED834B3EBD3805C6F4709CF937C8C5E8A475DB1DC786D62CCEB475D7BF5EE3F947035F9C0DFA60939C034EDDF95ACE1B4A528A47FB8EADABD04CA067281053CB72AFD501EA8DAA9D34CD67723D48905162D2B5EDE300BF02C4AB9A5932A9E040A82F0F3F517CE70E8E1E76C210BB54FE9BE4B5B67C781B427DE121ED018774269EF843345E19FBF630163095742C51E000C2623BC3FFA1C58F6225AB8B8890C37C0A80DFE59FAE8F71471F9FF29394F771B81F0A54F7DF08CF15BC2B3780EFC82199F17563C1930F2F53FE46877A988D328DA4B4D830995345AEC2C682200F701DB29A4F1FCFFA472455D33E1CED38BFDC01187065B2B637CC2A0F55281885E2BD1164B59511A8675107677B398CD6A97BE4852EE3E4E856D8335BF47AC84E4F5EE42967C086F59B62E538BE51303435FB3C2AE56D72B2DE9A806BE8A72E7A23262D85F1EE75D4018823DB7BD8AF8B4C7E306456BDAAB061FE8F70FFE1568FBDEA42DDDDA69D2679343419F5F0CFFF29FD534FBC2610DF98B28A0B978D7BB13EEB60D494DD8B7BDBD57AE2C68F518D48CFE5F0C2B4FEFE62146792F52583A023CBBF4B7D93EEEBC172922E1B422741EC525921C7AE77A5F01711445891142B5D49C86A28AF22F93304A16F9BCF98FCE933585E0819429ECD86A0739269F1DA19B4C433D229FF17E27ACFA44A6FD396B299F8A05B5C3930C2104F94CF7BA6637A56A3738711328163FB45C21D7DB121E9C5117EE675BA38B9CFCF44C26A2F93D89551819A16CDE7400E1CC6B9CE5B5CC3A901BC83C089B820E27CF0EE0BF18381F30C37D925B2C5F9BD2DE9D9E065461C1724F4C6E10F9652CF8B3730213C9C8D83F704F74049482801B7B778B23CAF354292EBA0E9368B4A9C8A1A3AC5AAAAD19FBBC</ff90>
+  <a6a0>
+    PCFET0NUWVBFIGh0bWw+DQo8aHRtbD4NCjxoZWFkPg0KPHRpdGxlPkNDUyBTY29yaW5nIFJl
+    cG9ydDwvdGl0bGU+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KaDEgeyB0ZXh0LWFsaWdu
+    OiBjZW50ZXI7IH0NCmgyIHsgdGV4dC1hbGlnbjogY2VudGVyOyB9DQpib2R5IHsNCiAgZm9u
+    dC1mYW1pbHk6IEFyaWFsLCBWZXJkYW5hLCBzYW5zLXNlcmlmOw0KICBmb250LXNpemU6IDE0
+    cHg7DQogIG1hcmdpbjogMDsNCiAgcGFkZGluZzogMDsNCiAgd2lkdGg6IDEwMCU7DQogIGhl
+    aWdodDogMTAwJTsNCiAgYmFja2dyb3VuZDogdXJsKCdiYWNrZ3JvdW5kLmpwZycpOw0KICBi
+    YWNrZ3JvdW5kLXNpemU6IGNvdmVyOw0KICBiYWNrZ3JvdW5kLWF0dGFjaG1lbnQ6IGZpeGVk
+    Ow0KICBiYWNrZ3JvdW5kLXBvc2l0aW9uOiB0b3AgY2VudGVyOw0KICBiYWNrZ3JvdW5kLWNv
+    bG9yOiAjMzM2Njk5Ow0KfQ0KLnJlZCB7Y29sb3I6IHJlZDt9DQouZ3JlZW4ge2NvbG9yOiBn
+    cmVlbjt9DQouYmx1ZSB7Y29sb3I6IGJsdWU7fQ0KLm1haW4gew0KICBtYXJnaW4tdG9wOiAx
+    MHB4Ow0KICBtYXJnaW4tYm90dG9tOiAxMHB4Ow0KICBtYXJnaW4tbGVmdDogYXV0bzsNCiAg
+    bWFyZ2luLXJpZ2h0OiBhdXRvOw0KICBwYWRkaW5nOiAwcHg7DQogIGJvcmRlci1yYWRpdXM6
+    IDEycHg7DQogIGJhY2tncm91bmQtY29sb3I6IHdoaXRlOw0KICB3aWR0aDogOTAwcHg7DQog
+    IG1heC13aWR0aDogMTAwJTsNCiAgbWluLXdpZHRoOiA2MDBweDsNCiAgYm94LXNoYWRvdzog
+    MHB4IDBweCAxMnB4ICMwMDMzNjY7DQp9DQoudGV4dCB7DQogIHBhZGRpbmc6IDEycHg7DQog
+    IC13ZWJraXQtdG91Y2gtY2FsbG91dDogbm9uZTsNCiAgLXdlYmtpdC11c2VyLXNlbGVjdDog
+    bm9uZTsNCiAgLWtodG1sLXVzZXItc2VsZWN0OiBub25lOw0KICAtbW96LXVzZXItc2VsZWN0
+    OiBub25lOw0KICAtbXMtdXNlci1zZWxlY3Q6IG5vbmU7DQogIHVzZXItc2VsZWN0OiBub25l
+    Ow0KfQ0KLmNlbnRlciB7IHRleHQtYWxpZ246IGNlbnRlcjsgfQ0KLmJpbmFyeSB7DQogIHBv
+    c2l0aW9uOiByZWxhdGl2ZTsNCiAgb3ZlcmZsb3c6IGhpZGRlbjsNCn0NCi5iaW5hcnk6OmJl
+    Zm9yZSB7DQogIHBvc2l0aW9uOiBhYnNvbHV0ZTsNCiAgdG9wOiAtNzUlOw0KICBsZWZ0OiAt
+    MTI1JTsNCiAgZGlzcGxheTogYmxvY2s7DQogIHdpZHRoOiAyMDAlOw0KICBoZWlnaHQ6IDE1
+    MCU7DQogIC13ZWJraXQtdHJhbnNmb3JtOiByb3RhdGUoLTQ1ZGVnKTsNCiAgLW1vei10cmFu
+    c2Zvcm06IHJvdGF0ZSgtNDVkZWcpOw0KICAtbXMtdHJhbnNmb3JtOiByb3RhdGUoLTQ1ZGVn
+    KTsNCiAgdHJhbnNmb3JtOiByb3RhdGUoLTQ1ZGVnKTsNCiAgY29udGVudDogYXR0cihkYXRh
+    LWJpbmFyeSk7DQogIG9wYWNpdHk6IDAuMTY7DQogIGxpbmUtaGVpZ2h0OiAyZW07DQogIGxl
+    dHRlci1zcGFjaW5nOiAycHg7DQogIGNvbG9yOiAjMzY5Ow0KICBmb250LXNpemU6IDEwcHg7
+    DQogIHBvaW50ZXItZXZlbnRzOiBub25lOw0KfQ0KPC9zdHlsZT4NCjxtZXRhIGh0dHAtZXF1
+    aXY9InJlZnJlc2giIGNvbnRlbnQ9IjMwO3VybD1TY29yaW5nUmVwb3J0Lmh0bWwiPg0KPC9o
+    ZWFkPg0KDQo8Ym9keT4NCjxkaXYgY2xhc3M9Im1haW4iPg0KPGRpdiBjbGFzcz0idGV4dCI+
+    DQo8ZGl2IGNsYXNzPSJiaW5hcnkiIGRhdGEtYmluYXJ5PSIlQklOQVJZJSI+DQo8cCBhbGln
+    bj1jZW50ZXIgc3R5bGU9IndpZHRoOjEwMCU7dGV4dC1hbGlnbjpjZW50ZXIiPg0KPGltZyBh
+    bGlnbj1taWRkbGUgc3R5bGU9ImZsb2F0Om1pZGRsZSIgc3JjPSJpbWFnZTAwMS5qcGciIGhl
+    aWdodD0iMTIwIiB3aWR0aD0iMTIwIj4NCjwvcD4NCjxoMT4lVElUTEUlPC9oMT4NCjxoMj5S
+    ZXBvcnQgR2VuZXJhdGVkIEF0OiAlVElNRSUgVVRDPC9oMj4NCiVTQ09SRUJPQVJEX01FU1NB
+    R0UlDQolVElNRV9NRVNTQUdFJQ0KPHNjcmlwdCBsYW5ndWFnZT0iSmF2YXNjcmlwdCI+DQov
+    L0FycmF5LmZyb20oZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgnLmJpbmFyeScpKS5mb3JF
+    YWNoKGZ1bmN0aW9uKGVsKSB7DQovLyAgZWwuZGF0YXNldC5iaW5hcnkgPSAoZWwuZGF0YXNl
+    dC5iaW5hcnkgKyAnICcpLnJlcGVhdCgyMDAwKTsNCi8vfSk7DQp2YXIgYmluID0gZG9jdW1l
+    bnQucXVlcnlTZWxlY3RvckFsbCgnLmJpbmFyeScpOw0KW10uZm9yRWFjaC5jYWxsKGJpbiwg
+    ZnVuY3Rpb24oZWwpIHsNCiAgZWwuZGF0YXNldC5iaW5hcnkgPSBBcnJheSg0MDk2KS5qb2lu
+    KGVsLmRhdGFzZXQuYmluYXJ5ICsgJyAnKQ0KfSk7DQp2YXIgY3VycmVudGRhdGUgPSBuZXcg
+    RGF0ZSgpLmdldFRpbWUoKTsNCmdlbmRhdGUgPSBEYXRlLnBhcnNlKCclVElNRSUgVVRDJyk7
+    DQpkaWZmID0gTWF0aC5hYnMoY3VycmVudGRhdGUgLSBnZW5kYXRlKTsNCmlmICggZ2VuZGF0
+    ZSA+IDAgJiYgZGlmZiA+IDEwMDAgKiA2MCAqIDUgKSB7DQoJZG9jdW1lbnQud3JpdGUoJzxz
+    cGFuIHN0eWxlPSJjb2xvcjpyZWQiPjxoMj5XQVJOSU5HOiBDQ1MgU2NvcmluZyBzZXJ2aWNl
+    IG1heSBub3QgYmUgcnVubmluZzwvaDI+PC9zcGFuPicpOw0KfQ0KPC9zY3JpcHQ+DQo8aDMg
+    Y2xhc3M9ImNlbnRlciI+QXBwcm94aW1hdGUgSW1hZ2UgUnVubmluZyBUaW1lOiAlUlVOTklO
+    R19USU1FJTwvaDM+DQo8aDMgY2xhc3M9ImNlbnRlciI+QXBwcm94aW1hdGUgVGVhbSBSdW5u
+    aW5nIFRpbWU6ICVURUFNX1JVTk5JTkdfVElNRSU8L2gzPg0KPGgzIGNsYXNzPSJjZW50ZXIi
+    PkN1cnJlbnQgVGVhbSBVbmlxdWUgSUQ6ICVURUFNSUQlPC9oMz4NCiVJTlNUQU5DRV9NRVNT
+    QUdFJQ0KJUZFRURCQUNLX01FU1NBR0UlDQo8aDI+JVBPSU5UU19SRUNFSVZFRCUgb3V0IG9m
+    ICVQT0lOVFNfUE9TU0lCTEUlIHBvaW50cyByZWNlaXZlZDwvaDI+DQo8cD4lSEVBREVSJTxw
+    Pg0KPGgzPkNvbm5lY3Rpb24gU3RhdHVzOiAlU1RBVFVTJTwvaDM+DQo8cD4NCkludGVybmV0
+    IENvbm5lY3Rpdml0eSBDaGVjazogJUlOVEVSTkVUX1NUQVRVUyUgPGJyPg0KQ0NTIFNlcnZl
+    ciBDb25uZWN0aW9uIFN0YXR1czogJUNPTk5FQ1RJT05fU1RBVFVTJSA8YnI+DQpDQ1MgU2Vy
+    dmVyIFNjb3JlIFVwbG9hZCBTdGF0dXM6ICVVUExPQURfU1RBVFVTJSA8YnI+DQo8L3A+DQo8
+    aDM+JVBFTkFMVElFU19BU1NFU1NFRCUgcGVuYWx0aWVzIGFzc2Vzc2VkLCBmb3IgYSBsb3Nz
+    IG9mICVQRU5BTFRZX1BPSU5UUyUgcG9pbnRzOjwvaDM+DQo8cD4NCiVQRU5BTFRZX0RFU0NS
+    SVBUSU9OJQ0KPC9wPg0KPGgzPiVDSEVDS1NfUEFTU0VEJSBvdXQgb2YgJUNIRUNLU19UT1RB
+    TCUgc2NvcmVkIHNlY3VyaXR5IGlzc3VlcyBmaXhlZCwgZm9yIGEgZ2FpbiBvZiAlQ0hFQ0tf
+    UE9JTlRTJSBwb2ludHM6PC9oMz4NCjxwPg0KJUZJWEVEX0RFU0NSSVBUSU9OJQ0KPC9wPg0K
+    PHAgYWxpZ249Y2VudGVyIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+VGhlIENDUw0KQ29t
+    cGV0aXRpb24gU3lzdGVtIGlzIHRoZSBwcm9wZXJ0eSBvZiB0aGUgQWlyIEZvcmNlIEFzc29j
+    aWF0aW9uIGFuZCB0aGUNClVuaXZlcnNpdHkgb2YgVGV4YXMgYXQgU2FuIEFudG9uaW8uPC9w
+    Pg0KPHAgYWxpZ249Y2VudGVyIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+QWxsIHJpZ2h0
+    cyByZXNlcnZlZC48L3A+DQo8L2Rpdj4NCjwvZGl2Pg0KPC9kaXY+DQo8L2JvZHk+DQo8L2h0
+    bWw+DQo=
+  </a6a0>
+</e665>
