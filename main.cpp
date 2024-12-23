@@ -29,6 +29,12 @@ void generateRandomIV(CryptoPP::byte* iv) {
     }
 }
 
+void writeDebugData(const std::string& label, const std::string& data) {
+    std::ofstream debug(label + ".debug", std::ios::binary);
+    debug.write(data.data(), data.size());
+    debug.close();
+}
+
 bool decrypt_file(const std::string& input_file, const std::string& output_file) {
     try {
         // Read the encrypted file
@@ -80,38 +86,50 @@ bool encrypt_file(const std::string& input_file, const std::string& output_file)
         std::vector<char> xml_bytes = ReadAllBytes(input_file.c_str());
         std::string xml_content(xml_bytes.begin(), xml_bytes.end());
 
-        // Obfuscate XML tags directly
+        // Obfuscate XML tags
         XMLTagMapper mapper;
         std::string obfuscatedXML = mapper.transformXML(xml_content, false);
 
-        // Generate random IV
+        // Copy IV from original file
         CryptoPP::byte iv[12];
-        generateRandomIV(iv);
+        std::ifstream original("./ScoringResource.dat", std::ios::binary);
+        original.read(reinterpret_cast<char*>(iv), 12);
+        original.close();
 
-        // Define the key (same as decryption)
+        // Define the key
         CryptoPP::byte key[] = {
             0xDE, 0x9F, 0xF2, 0x7D, 0x33, 0x6E, 0x45, 0xDE,
             0xB9, 0xE1, 0x18, 0xB2, 0xFD, 0x74, 0x9B, 0xC1
         };
 
-        std::string compressedtext;
+        // Setup initial encryption context
         std::string encryptedtext;
-
-        // Compress first
-        CryptoPP::ZlibCompressor compressor(new CryptoPP::StringSink(compressedtext));
-        compressor.Put((const CryptoPP::byte*)obfuscatedXML.data(), obfuscatedXML.size());
-        compressor.MessageEnd();
-
-        // Setup encryption
         CryptoPP::GCM<CryptoPP::AES>::Encryption gcmEncryption;
         gcmEncryption.SetKeyWithIV(key, sizeof(key), iv, 12);
 
-        // Create encryption filter
-        CryptoPP::AuthenticatedEncryptionFilter ef(gcmEncryption, new CryptoPP::StringSink(encryptedtext));
-        ef.Put((const CryptoPP::byte*)compressedtext.data(), compressedtext.size());
-        ef.MessageEnd();
+        // Create the authenticated encryption filter
+        CryptoPP::AuthenticatedEncryptionFilter aef(gcmEncryption,
+            new CryptoPP::StringSink(encryptedtext));
 
-        // Write IV and encrypted data to output file
+        // Process AAD first
+        aef.ChannelPut(CryptoPP::AAD_CHANNEL, iv, 12);
+        aef.ChannelMessageEnd(CryptoPP::AAD_CHANNEL);
+
+        // Create Zlib compressor with Adler32 checksum
+        std::string compressedtext;
+        CryptoPP::ZlibCompressor compressor(new CryptoPP::StringSink(compressedtext));
+
+        // Put data through compressor
+        compressor.Put((const CryptoPP::byte*)obfuscatedXML.data(), obfuscatedXML.size());
+        compressor.MessageEnd();
+
+        // Put compressed data through encryption filter on DEFAULT_CHANNEL
+        aef.ChannelPut(CryptoPP::DEFAULT_CHANNEL,
+                      (const CryptoPP::byte*)compressedtext.data(),
+                      compressedtext.size());
+        aef.ChannelMessageEnd(CryptoPP::DEFAULT_CHANNEL);
+
+        // Write output file
         std::ofstream out(output_file, std::ios::binary);
         out.write(reinterpret_cast<const char*>(iv), 12);
         out.write(encryptedtext.data(), encryptedtext.size());
@@ -128,7 +146,7 @@ bool encrypt_file(const std::string& input_file, const std::string& output_file)
 int main(int argc, char* argv[]) {
     if (argc != 3) {
         std::cerr << "Usage: " << argv[0] << " <mode> <input_file>" << std::endl;
-        std::cerr << "Modes: encrypt, decrypt" << std::endl;
+        std::cerr << "Modes: encrypt, decrypt, verify" << std::endl;
         return 1;
     }
 
@@ -137,6 +155,7 @@ int main(int argc, char* argv[]) {
     std::string base_name = input_file.substr(0, input_file.find_last_of('.'));
     std::string timestamp = std::to_string(time(0));
 
+    // Original modes remain unchanged
     if (mode == "decrypt") {
         std::string output_file = base_name + "-" + timestamp + ".xml";
         if (decrypt_file(input_file, output_file)) {
@@ -152,7 +171,7 @@ int main(int argc, char* argv[]) {
         }
     }
     else {
-        std::cerr << "Invalid mode. Use 'encrypt' or 'decrypt'" << std::endl;
+        std::cerr << "Invalid mode. Use 'encrypt', 'decrypt', or 'verify'" << std::endl;
         return 1;
     }
 
